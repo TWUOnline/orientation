@@ -1,3 +1,12 @@
-# My Awesome Book
+# Trinity Western University
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Online Learning Orientation
+
+## Tasks
+
+1. Know Thyself \(and thine online footprint\)
+   1. Sign out of your social media sites \(Facebook, Twitter, Google, etc\)
+   2. Google yourself
+
+
+
