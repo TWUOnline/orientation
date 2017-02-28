@@ -6,12 +6,12 @@
 
 Learners will be able to:
 
-1. Create and remix digital media in various formats.
-2. Apply appropriate licenses to their work.
-3. Apply digital communication and collaboration tools effectively in a higher education context. \*
-4. Develop a positive digital online identity in support of learning commensurate with good practice for privacy, security and interpersonal communications.\*
-
-5. Demonstrate how to participate legally and ethically in an online digital learning community.\*
+1. Apply advanced search strategies to identify and select relevant open access resources to support learning.\*
+2. Create digital media in various formats.
+3. Apply appropriate Creative Commons licenses to their work and articulate their reasons for their choices.
+4. Apply digital communication and collaboration tools effectively in a higher education context. \*
+5. Develop a positive digital online identity in support of learning commensurate with good practice for privacy, security and interpersonal communications.\*
+6. Demonstrate how to participate legally and ethically in an online digital learning community.\*
 
 \*These outcomes were originally published for the course '[Learning in a digital age](https://oeru.org/oeru-partners/otago-polytechnic/learning-in-a-digital-age/)' by OERu and are reproduced here under a Creative Commons Attribution 4.0 International License
 
