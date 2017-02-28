@@ -17,13 +17,17 @@ Learners will be able to:
 
 ### Tasks
 
-1. Know Thyself \(and thine online footprint\)  
-   1. Sign out of your social media sites \(Facebook, Twitter, Google, etc\)  
+1. Know Thyself \(and thine online footprint\)
+
+   1. Sign out of your social media sites \(Facebook, Twitter, Google, etc\)
+
    2. Google yourself
 
 2. Know who follows you
+
    1. Install LightBeam in Firefox \(you might have to install Firefox first\) [https://addons.mozilla.org/en-US/firefox/addon/lightbeam/](https://addons.mozilla.org/en-US/firefox/addon/lightbeam/)
-   2. 1. 
+
+   2. 
 
 
 
