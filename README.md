@@ -15,6 +15,10 @@ Learners will be able to:
 
 \*These outcomes were originally published for the course '[Learning in a digital age](https://oeru.org/oeru-partners/otago-polytechnic/learning-in-a-digital-age/)' by OERu and are reproduced here under a Creative Commons Attribution 4.0 International License
 
+### Resources
+
+* [http://theory.cribchronicles.com/2012/05/06/digital-identities-six-key-selves/](http://theory.cribchronicles.com/2012/05/06/digital-identities-six-key-selves/)
+
 ### Tasks
 
 1. Know Thyself \(and thine online footprint\)
@@ -27,7 +31,17 @@ Learners will be able to:
 
    1. Install LightBeam in Firefox \(you might have to install Firefox first\) [https://addons.mozilla.org/en-US/firefox/addon/lightbeam/](https://addons.mozilla.org/en-US/firefox/addon/lightbeam/)
 
-   2. 
+3. Set up WordPress
+
+   1. connect RSS
+
+4. explore web resources
+
+   1. student handbook
+
+   2. MA Lead Community of Practice
+
+5. Media creation and licensing
 
 
 
