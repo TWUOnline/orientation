@@ -13,11 +13,16 @@ Learners will be able to:
 5. Develop a positive digital online identity in support of learning commensurate with good practice for privacy, security and interpersonal communications.\*
 6. Demonstrate how to participate legally and ethically in an online digital learning community.\*
 
+
+
 \*These outcomes were originally published for the course '[Learning in a digital age](https://oeru.org/oeru-partners/otago-polytechnic/learning-in-a-digital-age/)' by OERu and are reproduced here under a Creative Commons Attribution 4.0 International License
 
 ### Resources
 
-* [http://theory.cribchronicles.com/2012/05/06/digital-identities-six-key-selves/](http://theory.cribchronicles.com/2012/05/06/digital-identities-six-key-selves/)
+* [Bon Stewart on digital identities.](http://theory.cribchronicles.com/2012/05/06/digital-identities-six-key-selves/)
+* [Maha Bali on promoting social justice and empathy through critical digital citizenship.](http://dmlcentral.net/critical-digital-citizenship-empathy-social-justice-online/)
+* [Alec Couros' list of digital literacy resources.](https://couros.wikispaces.com/digitalcitizenship) 
+* [Maha Bali on the difference between digital skills and digital literacy. ](https://www.literacyworldwide.org/blog/literacy-daily/2016/02/03/knowing-the-difference-between-digital-skills-and-digital-literacies-and-teaching-both)
 
 ### Tasks
 
