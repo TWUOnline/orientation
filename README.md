@@ -22,6 +22,7 @@ Learners will be able to:
 * [Alec Couros' list of digital literacy resources.](https://couros.wikispaces.com/digitalcitizenship) 
 * [Maha Bali on the difference between digital skills and digital literacy. ](https://www.literacyworldwide.org/blog/literacy-daily/2016/02/03/knowing-the-difference-between-digital-skills-and-digital-literacies-and-teaching-both)
 * [Purdue OWL APA Guide](https://owl.english.purdue.edu/owl/resource/560/01/)
+* [APA Style guide](http://flash1r.apa.org/apastyle/basics/index.htm)
 
 ### Tasks
 
