@@ -25,6 +25,7 @@ Learners will be able to:
 * [Purdue OWL APA Guide](https://owl.english.purdue.edu/owl/resource/560/01/)
 * [APA Style guide](http://flash1r.apa.org/apastyle/basics/index.htm)
 * [TWU LibGuides](http://libguides.twu.ca/c.php?g=284731&p=1897471)
+* [TWU Moodle Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/KB/?CategoryID=4592)
 
 ### Tasks
 
