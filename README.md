@@ -27,6 +27,8 @@ Learners will be able to:
 * [APA Style guide](http://flash1r.apa.org/apastyle/basics/index.htm)
 * [TWU LibGuides](http://libguides.twu.ca/c.php?g=284731&p=1897471)
 * [TWU Moodle Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/KB/?CategoryID=4592)
+* [ACLU Pizza Video](https://www.youtube.com/watch?v=RNJl9EEcsoE)
+* [Ground Zero for Digital Literacy](http://bavatuesdays.com/password-management-ground-zero-for-digital-literacy/)
 
 ### Tasks
 
