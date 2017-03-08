@@ -19,6 +19,7 @@ Learners will be able to:
 ### Resources
 
 * [Bon Stewart on digital identities.](http://theory.cribchronicles.com/2012/05/06/digital-identities-six-key-selves/)
+* [Catherine Cronin on digital identities.](https://catherinecronin.wordpress.com/2014/02/12/openeducation-and-identities/)
 * [Maha Bali on promoting social justice and empathy through critical digital citizenship.](http://dmlcentral.net/critical-digital-citizenship-empathy-social-justice-online/)
 * [Alec Couros' list of digital literacy resources.](https://couros.wikispaces.com/digitalcitizenship) 
 * [Maha Bali on the difference between digital skills and digital literacy. ](https://www.literacyworldwide.org/blog/literacy-daily/2016/02/03/knowing-the-difference-between-digital-skills-and-digital-literacies-and-teaching-both)
