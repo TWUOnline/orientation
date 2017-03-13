@@ -55,8 +55,6 @@ Learners will be able to:
 
 6. Interacting in Moodle
 
-
-
 ## Course Structure
 
 This short course is divided into two sections. Your program or instructor may have a third section that covers program specific details.
@@ -67,7 +65,5 @@ The first section covers the idea of _digital literacy_, which is
 
 Becoming more digitally literate will help you to communicate ethically and effectively in TWU's digital learning environment as well as in your personal and professional life outside of the university.
 
-The second section will help you develop some _digital skills _required for you to participate easily and efficiently in various digital environments.
-
-
+The second section will help you develop some _digital skills_ required for you to participate easily and efficiently in various digital environments.
 
