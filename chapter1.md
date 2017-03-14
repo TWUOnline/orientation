@@ -18,7 +18,7 @@ Then she wandered around Heathrow for a half-hour and, as she boarded her flight
 
 While she slept on the 11-hour flight over Africa, a writer named Sam Biddle found her tweet and retweeted it to his own followers. All 15,000 of them. Before long, parts of the internet were in a frenzy of rage and glee. The top trending hashtag on Twitter worldwide was '\#HasJustineLandedYet'. Not only were people angry at the pious privilege and racism of Justine's tweet, but they were giddy at the thought of what was going to happen when she turned her phone back on.
 
-The fallout from sending that one tweet was devastating for Justine. She lost her job and instantly became a paraiah. Her family's name was tarnished after years of fighting against apartheid. 
+The fallout from sending that one tweet was devastating for Justine. She lost her job and instantly became a paraiah. Her family's name was tarnished even after years of fighting against apartheid in South Africa.
 
-&lt;iframe src="https://embed.ted.com/talks/jon\_ronson\_what\_happens\_when\_online\_shaming\_spirals\_out\_of\_control" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+
 
