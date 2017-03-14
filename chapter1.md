@@ -39,7 +39,7 @@ Consider the following video.
 
 Keep in mind that if the site that you are using is 'free', then the site and its services are not the product; you are the product. Your online habits are being scrutinized and subsequently bought and sold so that the original site and sites that purchase your data can more effectively sell you things.
 
-Please proceed to complete [Activity 1](/activity-1.md).
+Please proceed to complete [Activity 2](/activity-2.md).
 
 
 
