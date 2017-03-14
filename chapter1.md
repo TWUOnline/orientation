@@ -39,33 +39,3 @@ Consider the following video.
 
 Keep in mind that if the site that you are using is 'free', then the site and its services are not the product; you are the product. Your online habits are being scrutinized and subsequently bought and sold so that the original site and sites that purchase your data can more effectively sell you things.
 
-### Activity 1
-
-#### Tracking the Trackers
-
-For this activity, you will need to be using Mozilla's Firefox web browser. [You can download and install Firefox here.](https://www.mozilla.org/en-US/firefox/new/?scene=2)
-
-Once you have launched Firefox,
-
-##### Install Lightbeam
-
-###### Go to 'Add-ons'
-
-Click the 'hamburger' in the top, right corner of Firefox.
-
-![](/assets/go-to--add-ons-.png)
-
-###### Click 'Extensions' and enter 'lightbeam' in the search window.
-
-![](/assets/click--extensions-.png)
-
-###### Install
-
-![](/assets/install.png)
-
-###### Activate
-
-Click the Lightbeam icon in your toolbar.
-
-![](/assets/activate.png)
-
