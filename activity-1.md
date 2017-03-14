@@ -12,9 +12,7 @@ You can register for a site at [wordpress.com](http://wordpress.com). Choosing t
 
 WordPress.com offers higher levels of service and more options for a fee, and you are able to export your site to your own domain.
 
-### Option 3 \(moderately easy; some maintenance; complete autonomy; minimal cost\)
+### Option 3 \(moderately easy; some maintenance; complete autonomy; minimal annual cost\)
 
-You can register for your own hosting package from a web host. We highly recommend [Reclaim Hosting](http://reclaimhosting.com) as they are inexpensive, they cater specifically to higher education, and they have highly responsive customer service. Choosing this option will give you your own domain name as well as the ability to install WordPress and also a wide variety of other web apps as you see fit.
-
-
+You can register for your own hosting package from a web host. We highly recommend [Reclaim Hosting](http://reclaimhosting.com) as they are inexpensive, they cater specifically to higher education, and they have highly responsive customer service. Choosing this option will give you your own domain name \(and the option of subdomains\) as well as the ability to install WordPress and also a wide variety of other web apps as you see fit. You will have access to all the themes and plugins that you want \(and can afford\). You will be responsible for maintaining your site updates and security \(there are plugins for that\).
 
