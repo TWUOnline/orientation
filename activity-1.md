@@ -28,3 +28,6 @@ Click the Lightbeam icon in your toolbar.
 
 ![](/assets/activate.png)
 
+###### Think
+
+Now that you have Ligthbeam activated in Firefox, you'll be able to see exactly who is tracking you as you interact on the web. Spend some time visiting sites that you would normally visit, and periodically check in on the Lightbeam tab in Firefox to see what sites are most active.
