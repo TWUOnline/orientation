@@ -20,5 +20,5 @@ While she slept on the 11-hour flight over Africa, a writer named Sam Biddle fou
 
 The fallout from sending that one tweet was devastating for Justine. She lost her job and instantly became a paraiah. Her family's name was tarnished even after years of fighting against apartheid in South Africa.
 
-
+https://www.nytimes.com/2015/02/15/magazine/how-one-stupid-tweet-ruined-justine-saccos-life.html 
 
