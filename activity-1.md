@@ -1,4 +1,4 @@
-### Activity 1
+### Activity 1 {#activity-1}
 
 #### Tracking the Trackers
 
