@@ -16,9 +16,18 @@ Justine Sacco was traveling from New York to Cape Town, South Africa to visit fa
 
 Then she wandered around Heathrow for a half-hour and, as she boarded her flight, turned off her phone.
 
-While she slept on the 11-hour flight over Africa, a writer named Sam Biddle found her tweet and retweeted it to his own followers. All 15,000 of them. Before long, parts of the internet were in a frenzy of rage and glee. The top trending hashtag on Twitter worldwide was '\#HasJustineLandedYet'. Not only were people angry at the pious privilege and racism of Justine's tweet, but they were giddy at the thought of what was going to happen when she turned her phone back on.
+While she slept on the 11-hour flight over Africa, a writer named Sam Biddle found her tweet and retweeted it to his own followers. All 15,000 of them. Before long, parts of the internet were in a frenzy of rage and then, glee. The top trending hashtag on Twitter worldwide was '\#HasJustineLandedYet'. Not only were people angry at the pious privilege and racism of Justine's tweet, but they were giddy at the thought of what was going to happen when she turned her phone back on.
 
-The fallout from sending that one tweet was devastating for Justine. She lost her job and instantly became a paraiah. Her family's name was tarnished even after years of fighting against apartheid in South Africa.
+The fallout from sending that one tweet was devastating for Justine. [You can read more about Justine's \(and others'\) story here.](https://www.nytimes.com/2015/02/15/magazine/how-one-stupid-tweet-ruined-justine-saccos-life.html)
 
-https://www.nytimes.com/2015/02/15/magazine/how-one-stupid-tweet-ruined-justine-saccos-life.html 
+If the career and personal life of a communications professional like Justine can be destroyed by a single tweet, then surely we need to exercise care and caution when engaging on the web. One lesson that we all need to consider is that activities on the internet are not made better by them being on the internet. Adding technology to an environment, whether it is a social environment or a learning environment, does not necessarily make that environment better. Generally, adding technology, especially technologies that encourage network effects, acts as an _amplifier_. 
+
+That means that some good things can be spread more widely, increasing the positive effects of activities, but it also means that bad things can also be spread more widely and quickly.
+
+#### Questions to consider.
+
+1. Have you ever witnessed or experienced negative fallout for something you said online?
+2. Have you ever participated in publicly shaming a person or organizations for something that they said online?
+
+
 
