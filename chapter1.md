@@ -35,5 +35,7 @@ One of the first things that you should do to protect yourself online is to cons
 
 Consider the following video.
 
-[ACLU Pizza Video](#)
+[https://youtu.be/33CIVjvYyEk](https://youtu.be/33CIVjvYyEk)
+
+
 
