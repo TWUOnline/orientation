@@ -38,7 +38,7 @@ Learners will be able to:
 
 2. Know who follows you
 
-   1. Install LightBeam in Firefox \(you might have to install Firefox first\) [https://addons.mozilla.org/en-US/firefox/addon/lightbeam/](https://addons.mozilla.org/en-US/firefox/addon/lightbeam/)
+   1. Install LightBeam in Firefox \(you might have to install Firefox first\) 
 
 3. Set up WordPress
 

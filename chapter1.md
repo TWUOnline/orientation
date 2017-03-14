@@ -41,6 +41,12 @@ Keep in mind that if the site that you are using is 'free', then the site and it
 
 ### Activity 1
 
+#### Tracking the Trackers
+
+For this activity, you will need to be using Mozilla's Firefox web browser. [You can download and install Firefox here.](https://www.mozilla.org/en-US/firefox/new/?scene=2)
+
+Once you have launched Firefox, 
+
 
 
 
