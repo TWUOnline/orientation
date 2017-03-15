@@ -6,9 +6,11 @@ You can register for your own WordPress site managed by TWU. Choosing this optio
 
 If you choose this option, you can always export your entire site and install it on your own domain at any time. We'd be happy to help.
 
+To choose this option, click here.
+
 ### Option 2 \(very easy; no maintenance; minimal autonomy; variable cost options\)
 
-You can register for a site at [wordpress.com](http://wordpress.com). Choosing this option will give you a site at \[your-title-goes-here\].wordpress.com, where you get to choose what goes between the square brackets, as long as that title is still available. You may also purchase your own custom domain name such as \[your-title-goes-here\].ca and point it to your site. You will have access to a huge number of themes \(both free and premium\), but no plugins. WordPress.com will ensure that your site is up-to-date and secure.
+You can register for a site at [wordpress.com](http://wordpress.com). Choosing this option will give you a site at \[your-title-goes-here\].wordpress.com, where you get to choose what goes between the square brackets, as long as that title is still available. You may also purchase your own custom domain name such as \[your-title-goes-here\].ca and point it to your site. You will have access to a huge number of themes \(both free and premium\), but no plugins. WordPress.com will ensure that your site is up-to-date and secure. Since this option is not controlled by TWU, there may be limited help that we can provide.
 
 WordPress.com offers higher levels of service and more options for a fee, and you are able to export your site to your own domain.
 
