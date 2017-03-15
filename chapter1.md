@@ -41,5 +41,5 @@ Keep in mind that if the site that you are using is 'free', then the site and it
 
 Please proceed to complete [Activity 2](/activity-2.md).
 
-
+[OERu course on cyber-security.](https://oeru.org/oeru-partners/the-open-university/introduction-to-cyber-security/)
 
