@@ -8,13 +8,23 @@ Knowing this, we need to prepare you to be able to protect yourself, especially 
 
 ## What is digital literacy?
 
-We mentioned a definition of digital literacy in the introduction to this course, but, as is true for many things, its not quite that simple.
+We mentioned a definition of digital literacy in the introduction to this course, but, as is true for many things, it's not quite that simple.
 
-##### Listen 
+##### Explore
 
-Bonni Stachowiak from the _Teaching in Higher Ed _podcast interviewed Bryan Alexander on the topic of digital literacies and how the idea has changed over the last decade.
+Mozilla, the makers of Firefox, have created a Web Literacy Map that highlights key skills and activities associated with digital literacy in the 21st century. For now, we can consider digital literacy and web literacy to be synonymous. The map will allow you to explore each of the different domains and skills. Take a few minutes to visit the site and consider their definition of digital/web literacy.
 
-&lt;iframe width="320" height="30" src="http://teachinginhighered.com/?powerpress\_embed=4161-tihe\_podcast&amp;powerpress\_player=mediaelement-audio" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;
+###### [Web Literacy Map](https://learning.mozilla.org/en-US/web-literacy/)
+
+##### Listen
+
+Bonni Stachowiak from the _Teaching in Higher Ed_ podcast interviewed Bryan Alexander on the topic of digital literacies and how the idea has changed over the last decade.
+
+While you listen, think about how the ideas that Bonni and Bryan talk about apply to your experience as a citizen in a digital world, then talk about digital literacy with someone.
+
+###### [Digital Literacy – Then and Now](http://teachinginhighered.com/podcast/digital-literacy-now/)
+
+One advantage of using podcasts as a format on the web is that users can listen to a podcast while they are doing something else that doesn't require significant cognitive effort, like driving, doing the dishes, or exercising. This allows people to capture time that would otherwise be taken from learning if the medium was text.
 
 ## Why is digital literacy important? {#why-is-digital-literacy-important}
 
