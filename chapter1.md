@@ -14,7 +14,7 @@ We mentioned a definition of digital literacy in the introduction to this course
 
 Bonni Stachowiak from the _Teaching in Higher Ed _podcast interviewed Bryan Alexander on the topic of digital literacies and how the idea has changed over the last decade.
 
-[embed]&lt;iframe width="320" height="30" src="http://teachinginhighered.com/?powerpress\_embed=4161-tihe\_podcast&amp;powerpress\_player=mediaelement-audio" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;[/embed]
+&lt;iframe width="320" height="30" src="http://teachinginhighered.com/?powerpress\_embed=4161-tihe\_podcast&amp;powerpress\_player=mediaelement-audio" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;
 
 ## Why is digital literacy important? {#why-is-digital-literacy-important}
 
