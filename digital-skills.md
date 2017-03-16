@@ -12,5 +12,7 @@ A domain can refer to a number of things, as Audrey Watters writes
 
 > _Domain_ is a teritory controlled by a state or government. It can refer to a specific sphere of knowledge. It also means home. It means a space on the Internet marked by a specific address and controlled by an individual or organization. \[[Source](http://reclaim.hackeducation.com/)\]
 
-Your first activity in this course will be to set up your own WordPress site which will become part of your personal digital learning environment. You will have several options for how you would like to structure that space. 
+Your first activity in this course will be to set up your own WordPress site which will become part of your personal digital learning environment. You will have several options for how you would like to structure that space.
+
+[Activity 1](/activity-1.md)
 
