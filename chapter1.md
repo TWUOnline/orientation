@@ -6,6 +6,16 @@ This course is designed to provide you with multiple opportunities to think abou
 
 Knowing this, we need to prepare you to be able to protect yourself, especially if you are in a vulnerable community, or to protect those around you who are more vulnerable than you.
 
+## What is digital literacy?
+
+We mentioned a definition of digital literacy in the introduction to this course, but, as is true for many things, its not quite that simple.
+
+##### Listen 
+
+Bonni Stachowiak from the _Teaching in Higher Ed _podcast interviewed Bryan Alexander on the topic of digital literacies and how the idea has changed over the last decade.
+
+&lt;iframe width="320" height="30" src="http://teachinginhighered.com/?powerpress\_embed=4161-tihe\_podcast&amp;powerpress\_player=mediaelement-audio" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;
+
 ## Why is digital literacy important? {#why-is-digital-literacy-important}
 
 In December 2013, the Senior Director for Corporate Communications at the internet company IAC was fired from her job. The reason that she was fired was that there was a massive global response to something that she did. She sent a tweet.
