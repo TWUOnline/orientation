@@ -18,3 +18,7 @@ WordPress.com offers higher levels of service and more options for a fee, and yo
 
 You can register for your own hosting package from a web host. We highly recommend [Reclaim Hosting](http://reclaimhosting.com) as they are inexpensive, they cater specifically to higher education, and they have highly responsive customer service. Choosing this option will give you your own domain name \(and the option of subdomains\) as well as the ability to install WordPress and also a wide variety of other web apps as you see fit. You will have access to all the themes and plugins that you want \(and can afford\). You will be responsible for maintaining your site updates and security \(there are plugins for that\).
 
+### Option 4
+
+
+
