@@ -1,4 +1,4 @@
-# Trinity Western University
+# Trinity Western University 
 
 ## Online Learning Orientation
 
