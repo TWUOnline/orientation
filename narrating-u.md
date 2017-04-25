@@ -11,4 +11,4 @@ We do hope that you will learn to narrate your process as you work through your 
 Now, that may sound like an odd request, but it is rooted in sound andragogy[1].
 
 
-[1]
+[1]: Andragogy is the application of learning principles to adult education.
