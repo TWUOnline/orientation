@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [Digital Skills](digital-skills.md)
-    * [Activity 1](activity-1.md)
-* [Digital Literacy](chapter1.md)
-    * [Activity 2](activity-2.md)
+  * [WordPress Setup](wordpress-setup.md)
+* [Digital Literacy](digital-literacy.md)
+  * [Tracking the Trackers](tracking-the-trackers.md)
 * [Program Details](program-details.md)
 * [APA Activity](apa-activity.md)
 
