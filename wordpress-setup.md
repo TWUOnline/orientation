@@ -28,5 +28,5 @@ Once you have access to a WordPress blog, it's time to get things set up.
 
 The University of Mary Washington has published an excellent set of resources for customizing WordPress. To begin, view the videos covering the [WordPress dashboard](http://umwdtlt.com/wordpress-basics/#the-dashboard). Feel free to follow along on your own site and toggle back and forth between your own site and the video.
 
-Once you have worked through the basics of the dashboard, take some time to explore the 
+Once you have worked through the basics of the dashboard, take some time to explore the other videos available on the DTLT site. 
 
