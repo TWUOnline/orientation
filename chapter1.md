@@ -1,7 +1,6 @@
 # Digital Literacy
 
 
-
 ## What is digital literacy?
 
 We mentioned a definition of digital literacy in the introduction to this course, but, as is true for many things, it's not quite that simple.
