@@ -3,3 +3,4 @@
 As you begin your journey through higher ed, maybe for a second or third time, and maybe after a long time out of formal education, you will change and grow. Your views will change. You will become less confident in your previously-held ideas and conceptions about the world. You will begin to see events and ideas with a new, and more deeply thought-out perspective.
 
 Sometimes, it is hard to look back and recognize how you have changed because the changes are subtle and they happen over a long period of time. Part of the structure of this program is that your own work is hosted on your own domain, your blog in WordPress. The reason for this structure is to allow you to explore your own growth and development over the course of the program and to reflect on the impact of those changes.
+

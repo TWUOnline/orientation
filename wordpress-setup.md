@@ -22,6 +22,14 @@ You can register for your own hosting package from a web host. We highly recomme
 
 TWU will be able to provide some support if you choose this option.
 
+###A Note About Privacy
+
+You may have questions about how much you should share on your blog, and that is good. We are going to have you work through some activities to help you determine your level of comfort with sharing your growth on the web, but for now, there are some things that you can do to ensure that your data are protected on the web.
+
+* Sign up for WordPress under a pseudonym. You do not have to use your real name on your blog. Just make sure that your instructor knows who you are and what your pseudonym is.
+* Use the privacy controls in WordPress to protect your work. You can set passwords on individual pages and posts, or set them to be completely private. Just be aware that your instructor will need to be a user on your blog if you want to use private pages.
+ 
+
 ## How to get Started
 
 Once you have access to a WordPress blog, it's time to get things set up.
