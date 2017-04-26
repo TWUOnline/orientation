@@ -21,4 +21,8 @@ First, view the following videos on the UMW DTLT site:
 
 Next, start building a structure in your site. We recommend that you build the structure using the two taxonomies built into WordPress, categories and tags. Some people choose to organize their content with pages and sub-pages, but this strategy can quickly get unmanageable as you have less flexibility with pages. Pages are meant to be static.
 
+Your site structure should flow from the purpose for your site. For example, a student building a professional portfolio in order to graduate from the Education program will likely create categories in alignment with the Learning Outcomes for the program and the professional standards of the TRB. Or, a faculty member building a portfolio to support their application for tenure or promotion will likely align categories to the requirements for that process.
+
+Once you have drafted a structure \(it will change over time\), start building at least one main menu to organize how that content will be displayed on your site. You may have to create some 'dummy' posts and assign them to your categories to be able to see how they will look on the site.
+
 [^1]: [Andragogy](https://en.wikipedia.org/wiki/Andragogy) is the application of learning principles to adult education.
