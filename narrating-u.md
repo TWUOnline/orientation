@@ -19,4 +19,6 @@ First, view the following videos on the UMW DTLT site:
 * Both videos in the [Organizing Content with Taxonomies](http://umwdtlt.com/wordpress-basics/#organizing-content-with-taxonomies) category.
 * [Menus](http://umwdtlt.com/wordpress-basics/#changing-the-appearance) in the 'Changing the Appearance' category \(the last video in the category\).
 
+Next, start building a structure in your site. We recommend that you build the structure using the two taxonomies built into WordPress, categories and tags. Some people choose to organize their content with pages and sub-pages, but this strategy can quickly get unmanageable as you have less flexibility with pages. Pages are meant to be static.
+
 [^1]: [Andragogy](https://en.wikipedia.org/wiki/Andragogy) is the application of learning principles to adult education.
