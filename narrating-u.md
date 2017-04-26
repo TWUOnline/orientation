@@ -25,4 +25,8 @@ Your site structure should flow from the purpose for your site. For example, a s
 
 Once you have drafted a structure \(it will change over time\), start building at least one main menu to organize how that content will be displayed on your site. You may have to create some 'dummy' posts and assign them to your categories to be able to see how they will look on the site.
 
+Finally, for this activity, please create a new post that describes the choices you made while creating the structure for your site. What challenges did you encounter? How did you work through the challenges? What would you do next time?
+
+Add your post to the category you are using for this course before you publish!
+
 [^1]: [Andragogy](https://en.wikipedia.org/wiki/Andragogy) is the application of learning principles to adult education.
