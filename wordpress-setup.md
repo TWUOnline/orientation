@@ -48,5 +48,17 @@ Once you have worked through the basics of the dashboard, take some time to choo
 
 Watch both videos in the [Organizing Content with Taxonomies](http://umwdtlt.com/wordpress-basics/#organizing-content-with-taxonomies) category on the UMW DTLT site, and then create a category called 'TWU Online Orientation' on your site.
 
+###Register your site
+
+The final setup task for you is to register your blog so that it will show up on the [course hub](https://create.twu.ca/orientation). You posts will be syndicated from your site to the course hub through RSS, or Really Simple Syndication. The course hub will essentially be subscribed to your 'TWU Online Orientation' category feed. Any time you post in that category, your post will show up in the feed on the course hub. The same will be true for all other participants in the course, so you only need to check one spot to be able to see what everyone is writing about.
+
+When you click on the link to a post on the course hub, you will be taken to the site where the post was originally published.
+
+Before you register, you will need to have completed the following tasks on your own site:
+* create a site on your own URL,
+* create a category called 'TWU Online Orientation' and copy the slug to your clipboard.
+
+####[Click Here](https://create.twu.ca/orientation/register/) to register your site.
+
 
 
