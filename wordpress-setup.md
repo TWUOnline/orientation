@@ -8,6 +8,8 @@ You have three main options for getting started with WordPress.
 
 You can register for your own WordPress site managed by TWU. Choosing this option will give you a site at create.twu.ca/\[your\_title\_goes\_here\], where you get to choose what goes between the square brackets. You will have access to a limited number of themes and plugins, but you will be able to request others. TWU will ensure that WordPress is up-to-date and that it is secure and backed-up and we will be able to provide significant support as you get set up.
 
+Instructions contained in this orientation course will assume that you have chosen this option.
+
 If you choose this option, you can always export your entire site and install it on your own domain at any time. We'd be happy to help.
 
 To choose this option, click here.
@@ -15,6 +17,8 @@ To choose this option, click here.
 ### Option 2 \(very easy; no maintenance; minimal autonomy; variable cost options\)
 
 You can register for a site at [wordpress.com](http://wordpress.com). Choosing this option will give you a site at \[your-title-goes-here\].wordpress.com, where you get to choose what goes between the square brackets, as long as that title is still available. You may also purchase your own custom domain name such as \[your-title-goes-here\].ca and point it to your site. You will have access to a huge number of themes \(both free and premium\), but no plugins. WordPress.com will ensure that your site is up-to-date and secure. Since this option is not controlled by TWU, there may be limited help that we can provide.
+
+Instructions contained in this course may differ slightly if you choose this option.
 
 WordPress.com offers higher levels of service and more options for a fee, and you are able to export your site to your own domain.
 
@@ -38,5 +42,6 @@ Once you have access to a WordPress blog, it's time to get things set up.
 
 The University of Mary Washington has published an excellent set of resources for customizing WordPress. To begin, view the videos covering the [WordPress dashboard](http://umwdtlt.com/wordpress-basics/#the-dashboard). Feel free to follow along on your own site and toggle back and forth between your own site and the video.
 
-Once you have worked through the basics of the dashboard, take some time to choose a theme that you like. You will have different options depending on where your blog is hosted
+Once you have worked through the basics of the dashboard, take some time to choose a theme you like. You will have different options depending on where your site is hosted.
 
+###Set up a 'Category' for this course
