@@ -45,3 +45,6 @@ The University of Mary Washington has published an excellent set of resources fo
 Once you have worked through the basics of the dashboard, take some time to choose a theme you like. You will have different options depending on where your site is hosted.
 
 ###Set up a 'Category' for this course
+
+Watch both videos in the [Organizing Content with Taxonomies](http://umwdtlt.com/wordpress-basics/#organizing-content-with-taxonomies) category on the UMW DTLT site, and then create a category called 'TWU Online Orientation' on your site.
+
