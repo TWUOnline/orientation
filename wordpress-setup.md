@@ -48,3 +48,5 @@ Once you have worked through the basics of the dashboard, take some time to choo
 
 Watch both videos in the [Organizing Content with Taxonomies](http://umwdtlt.com/wordpress-basics/#organizing-content-with-taxonomies) category on the UMW DTLT site, and then create a category called 'TWU Online Orientation' on your site.
 
+
+
