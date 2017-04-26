@@ -12,6 +12,11 @@ Now, that may sound like an odd request, but it is rooted in sound andragogy[^1]
 
 Narrating your process isn't about being correct. It is about expecting to be wrong about some things and working towards a more correct understanding. It is about helping your colleagues as they work towards a more correct understanding.  
 
+For this activity, you will need to start thinking through a structure for your site. WordPress has powerful content management feature built in, so you have a significant amount of control over how your site is structured.
 
+First, view the following videos on the UMW DTLT site:
+* [Pages vs. Posts](http://umwdtlt.com/wordpress-basics/#adding-new-posts-and-pages) \(scroll down a little for the video\).
+* Both videos in the [Organizing Content with Taxonomies](http://umwdtlt.com/wordpress-basics/#organizing-content-with-taxonomies) category.
+* [Menus](http://umwdtlt.com/wordpress-basics/#changing-the-appearance) in the 'Changing the Appearance' category \(the last video in the category\).
 
-[^1]: Andragogy is the application of learning principles to adult education.
+[^1]: [Andragogy](https://en.wikipedia.org/wiki/Andragogy) is the application of learning principles to adult education.
