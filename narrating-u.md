@@ -24,6 +24,8 @@ Next, start building a structure in your site. We recommend that you build the s
 
 Your site structure should flow from the purpose for your site. For example, a student building a professional portfolio in order to graduate from the Education program will likely create categories in alignment with the Learning Outcomes for the program and the professional standards of the TRB. Or, a faculty member building a portfolio to support their application for tenure or promotion will likely align categories to the requirements for that process.
 
+Faculty members thinking about creating a portfolio or CV may want to watch [this video about being a scholar in public](https://youtu.be/6uRnQdtfDpE).
+
 Once you have drafted a structure \(it will change over time\), start building at least one main menu to organize how that content will be displayed on your site. You may have to create some 'dummy' posts and assign them to your categories to be able to see how they will look on the site.
 
 Finally, for this activity, please create a new post that describes the choices you made while creating the structure for your site. What challenges did you encounter? How did you work through the challenges? What would you do next time? You can read my posts in response to a similar activity [here](http://merelearning.ca/reflecting/structuring-my-show/) and [here](http://merelearning.ca/reflecting/refining-the-structure/).
