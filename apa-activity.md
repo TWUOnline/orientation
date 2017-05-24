@@ -1,6 +1,6 @@
 # APA Style
 
-Will this work?
+Need to update the cache?
 
 The MA Leadership program uses the [_Publication Manual of the American Psychological Association \(6th ed\)_](http://www.apastyle.org/manual/) for formal papers. You are strongly encouraged to purchase this book to use as a guide as you write your papers.
 
