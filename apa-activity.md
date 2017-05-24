@@ -1,5 +1,7 @@
 # APA Style
 
+Will this work?
+
 The MA Leadership program uses the [_Publication Manual of the American Psychological Association \(6th ed\)_](http://www.apastyle.org/manual/) for formal papers. You are strongly encouraged to purchase this book to use as a guide as you write your papers.
 
 There will not be any formal training or required readings from the book, but your instructors understand that you are learning to engage in a scholarly community and will be happy to assist you with specific questions.
@@ -33,7 +35,5 @@ Examples include:
 3. EndNote is likely the most common product, but is pricey.
 4. [Cite This For Me](http://www.citethisforme.com/ca) \(formerly RefMe\)
 
-You should note that, while citation management 
-
-
+You should note that, while citation management
 
