@@ -2,6 +2,8 @@
 
 ## What is digital literacy?
 
+This is a test.
+
 We mentioned a definition of digital literacy in the introduction to this course, but, as is true for many things, it's not quite that simple.
 
 ##### Explore
@@ -20,7 +22,7 @@ While you listen, think about how the ideas that Bonni and Bryan talk about appl
 
 One advantage of using podcasts as a format on the web is that users can listen to a podcast while they are doing something else that doesn't require significant cognitive effort, like driving, doing the dishes, or exercising. This allows people to capture time that would otherwise be taken from learning if the medium was text.
 
-## Why is digital literacy important? 
+## Why is digital literacy important?
 
 In December 2013, the Senior Director for Corporate Communications at the internet company IAC was fired from her job. The reason that she was fired was that there was a massive global response to something that she did. She sent a tweet.
 
@@ -43,7 +45,7 @@ Had Justine understood how much her tweet could be amplified by the way that the
 1. Have you ever witnessed or experienced negative fallout for something you or someone else said online?
 2. Have you ever participated in publicly shaming a person or organizations for something that they said online?
 
-## Protecting Yourself 
+## Protecting Yourself
 
 One of the first things that you should do to protect yourself online is to consider how you are protecting your own data and information. Many websites require that you sign in before you can fully participate in the site. This allows the owner of the site to track who you are and what you do on their site. Popular sites generate enormous amounts of data on you and your online activities, and that may not really concern you. Many people think that they have nothing to hide, so they have nothing to worry about.
 
