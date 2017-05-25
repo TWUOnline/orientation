@@ -9,4 +9,5 @@
   * [Tracking the Trackers](tracking-the-trackers.md)
 * [Program Details](program-details.md)
 * [APA Activity](apa-activity.md)
+* [Resources](resources.md)
 

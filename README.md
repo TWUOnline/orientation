@@ -1,12 +1,12 @@
-# Trinity Western University 
+# Trinity Western University
 
 ## Online Learning Orientation
+
 Welcome to the online learning orientation course for Trinity Western University.
 
 This course is designed to provide you with multiple opportunities to think about the impact of digital tools on you, your family, your friends, and your colleagues and to begin to take steps towards regaining control over your digital identify. Participation in online/digital spaces is not a neutral endeavour. There are risks as well as rewards. Often, unfortunately, the risks fall disproportionately on those who exist in traditionally marginalized communities like people of colour, women, sexual minorities, religious minorities and others. Conversely, it is those already in privileged positions who tend to reap the benefits.
 
 Knowing this, we need to prepare you to be able to protect yourself, especially if you are in a vulnerable community, or to protect those around you who are more vulnerable than you.
-
 
 ### Outcomes
 
@@ -21,20 +21,7 @@ Learners will be able to:
 
 \*These outcomes were originally published for the course 'Learning in a digital age' by OERu and are reproduced here under a Creative Commons Attribution 4.0 International License
 
-### Resources
-
-* [Bon Stewart on digital identities.](http://theory.cribchronicles.com/2012/05/06/digital-identities-six-key-selves/)
-* [Catherine Cronin on digital identities.](https://catherinecronin.wordpress.com/2014/02/12/openeducation-and-identities/)
-* [Maha Bali on promoting social justice and empathy through critical digital citizenship.](http://dmlcentral.net/critical-digital-citizenship-empathy-social-justice-online/)
-* [Alec Couros' list of digital literacy resources.](https://couros.wikispaces.com/digitalcitizenship) 
-* [Maha Bali on the difference between digital skills and digital literacy. ](https://www.literacyworldwide.org/blog/literacy-daily/2016/02/03/knowing-the-difference-between-digital-skills-and-digital-literacies-and-teaching-both)
-* [Purdue OWL APA Guide](https://owl.english.purdue.edu/owl/resource/560/01/)
-* [APA Style guide](http://flash1r.apa.org/apastyle/basics/index.htm)
-* [TWU LibGuides](http://libguides.twu.ca/c.php?g=284731&p=1897471)
-* [TWU Moodle Knowledge Base](https://trinitywestern.teamdynamix.com/TDClient/KB/?CategoryID=4592)
-* [Ground Zero for Digital Literacy](http://bavatuesdays.com/password-management-ground-zero-for-digital-literacy/)
-* [Poetry 17 \(Gardner Campbell\)](https://rampages.us/poetry17/)
-* [Mike Caulfield on Web Literacy \(Pressbook\)](https://webliteracy.pressbooks.com/)
+### 
 
 ### Tasks
 
@@ -73,5 +60,4 @@ The first section covers the idea of _digital literacy_, which is
 Becoming more digitally literate will help you to communicate ethically and effectively in TWU's digital learning environment as well as in your personal and professional life outside of the university.
 
 The second section will help you develop some _digital skills_ required for you to participate easily and efficiently in various digital environments.
-
 
