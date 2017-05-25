@@ -21,34 +21,6 @@ Learners will be able to:
 
 \*These outcomes were originally published for the course 'Learning in a digital age' by OERu and are reproduced here under a Creative Commons Attribution 4.0 International License
 
-### 
-
-### Tasks
-
-1. Know Thyself \(and thine online footprint\)
-
-   1. Sign out of your social media sites \(Facebook, Twitter, Google, etc\)
-
-   2. Google yourself
-
-2. Know who follows you
-
-   1. Install LightBeam in Firefox \(you might have to install Firefox first\) 
-
-3. Set up WordPress
-
-   1. connect RSS
-
-4. explore web resources
-
-   1. student handbook
-
-   2. MA Lead Community of Practice
-
-5. Media creation and licensing
-
-6. Interacting in Moodle
-
 ## Course Structure
 
 This short course is divided into two sections. Your program or instructor may have a third section that covers program specific details.
