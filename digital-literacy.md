@@ -2,8 +2,6 @@
 
 ## What is digital literacy?
 
-This is a super hard test.
-
 We mentioned a definition of digital literacy in the introduction to this course, but, as is true for many things, it's not quite that simple.
 
 ##### Explore
