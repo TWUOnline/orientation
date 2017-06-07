@@ -11,4 +11,5 @@
 * [APA Activity](apa-activity.md)
 * [Notes and Resources](resources.md)
 * [Course Overview](course-overview.md)
+* [Navigating a Connected Course](navigating-a-connected-course.md)
 
