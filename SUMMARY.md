@@ -2,6 +2,7 @@
 
 * [README](README.md)
 * [Digital Skills](digital-skills.md)
+  * [Navigating a Connected Course](navigating-a-connected-course.md)
   * [WordPress Setup](wordpress-setup.md)
   * [Narrating U](narrating-u.md)
 * [Digital Literacy](digital-literacy.md)
@@ -10,5 +11,4 @@
 * [APA Activity](apa-activity.md)
 * [Notes and Resources](resources.md)
 * [Course Overview](course-overview.md)
-* [Navigating a Connected Course](navigating-a-connected-course.md)
 

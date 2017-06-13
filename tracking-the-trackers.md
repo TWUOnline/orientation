@@ -1,5 +1,3 @@
-### Activity 2 {#activity-2}
-
 #### Tracking the Trackers
 
 For this activity, you will need to be using Mozilla's Firefox web browser. [You can download and install Firefox here.](https://www.mozilla.org/en-US/firefox/new/?scene=2)
@@ -31,3 +29,4 @@ Click the Lightbeam icon in your toolbar.
 ###### Think
 
 Now that you have Ligthbeam activated in Firefox, you'll be able to see exactly who is tracking you as you interact on the web. Spend some time visiting sites that you would normally visit, and periodically check in on the Lightbeam tab in Firefox to see what sites are most active.
+
