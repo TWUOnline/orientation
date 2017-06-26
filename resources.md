@@ -12,6 +12,7 @@
 * [Ground Zero for Digital Literacy](http://bavatuesdays.com/password-management-ground-zero-for-digital-literacy/)
 * [Poetry 17 \(Gardner Campbell\)](https://rampages.us/poetry17/)
 * [Mike Caulfield on Web Literacy \(Pressbook\)](https://webliteracy.pressbooks.com/)
+* [Mozilla: Safety First](https://advocacy.mozilla.org/en-US/safety)
 
 ### Tasks
 
