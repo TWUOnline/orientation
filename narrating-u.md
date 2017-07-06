@@ -1,4 +1,4 @@
-#Narrating U
+# Narrating U
 
 As you begin your journey through higher ed, maybe for a second or third time, and maybe after a long time out of formal education, you will change and grow. Your views will change. You will become less confident in your previously-held ideas and conceptions about the world. You will begin to see events and ideas with a new, and more deeply thought-out perspective. Learning requires you to change. If you are not changing, you are not learning and you are not spending your tuition money wisely.
 
@@ -10,12 +10,14 @@ We do hope that you will learn to narrate your process as you work through your 
 
 Now, that may sound like an odd request, but it is rooted in sound andragogy[^1]. You could think about narrating your process as reflecting on your work in a format that allows your colleagues and instructors to learn from you and for you to learn from them as well.
 
-Narrating your process isn't about being correct. It is about expecting to be wrong about some things and working towards a more correct understanding. It is about helping your colleagues as you all work towards a more correct understanding.  
+Narrating your process isn't about being correct. It is about expecting to be wrong about some things and working towards a more correct understanding. It is about helping your colleagues as you all work towards a more correct understanding.
 
-###Getting Started
-For this activity, you will need to start thinking through a structure for your site. WordPress has powerful content management feature built in, so you have a significant amount of control over how your site is structured.
+### Getting Started
+
+For this activity, you will need to start thinking through a structure for your site. WordPress has powerful content management features built in, so you have a significant amount of control over how your site is structured.
 
 First, view the following videos on the UMW DTLT site:
+
 * [Pages vs. Posts](http://umwdtlt.com/wordpress-basics/#adding-new-posts-and-pages) \(scroll down a little for the video\).
 * Both videos in the [Organizing Content with Taxonomies](http://umwdtlt.com/wordpress-basics/#organizing-content-with-taxonomies) category.
 * [Menus](http://umwdtlt.com/wordpress-basics/#changing-the-appearance) in the 'Changing the Appearance' category \(the last video in the category\).
@@ -33,3 +35,4 @@ Finally, for this activity, please create a new post that describes the choices 
 Make sure to add your post to the category you are using for this course before you publish!
 
 [^1]: [Andragogy](https://en.wikipedia.org/wiki/Andragogy) is the application of learning principles to adult education.
+
