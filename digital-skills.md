@@ -14,7 +14,5 @@ A domain can refer to a number of things, as Audrey Watters writes
 
 Your first activity in this course will be to set up your own WordPress site which will become part of your personal digital learning environment. You will have several options for how you would like to structure that space.
 
-Please proceed to complete your first activity, linked below.
 
-##[WordPress Setup](/wordpress-setup.md)
 
