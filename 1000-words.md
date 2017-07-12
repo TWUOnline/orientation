@@ -6,7 +6,7 @@ The activities[^1] on this page will give you some ideas and practice with takin
 
 ##### Taking better photos
 
-The suggestions below are borrowed from TEN: Ten Ways to Improve Your Craft. None of Them Involve Buying Gear a $5 now free ebook by David duChemin. We’ve lifted some key points.
+The suggestions below are borrowed from[ TEN: Ten Ways to Improve Your Craft. None of Them Involve Buying Gear](http://craftandvision.com/books/ten/) a free ebook by David duChemin. We’ve lifted some key points.
 
 * **Get Pickier**: Instead of using your camera like a rapid fire machine gun, spend more time pre-composing in your mind. As you get more practice, you can be more selective, and more deliberate. See if perhaps you can decide before taking a shot if it will be good.
 * **Better Contrast Makes Better Stories:** Contrast can be in terms of colors and lighting, but also elements and subjects in your photos- look for things that maybe do not belong together \(juxtaposition\). Look for near and far perspective.
@@ -27,7 +27,7 @@ These are of course, very general guides. You get better as you look at yours an
 
 Write a blog post that summarizes the tips you tried.
 
-**Include**:
+Include:
 
 * Link and credit for the tip.
 * Embed an example of a photo where you tried the technique
@@ -60,8 +60,6 @@ Here is what to seek in your own photo safari!
 4. Write a blog post about your experience and include all of your photos \(if using WordPress, see
    [how to make a Gallery in your post](http://codex.wordpress.org/The_WordPress_Gallery)\). Describe the place you chose to do this, and why you chose it. What was the experience like? What photos worked for you best? What do you think was the most inventive?
 5. Categorize your post as 'Photosafari' so we can aggreate them.
-
-
 
 [^1] These activities are adapted from an open course called [YouShow](http://youshow.trubox.ca/about/schedule/unit-2/) offered at Thompson Rivers University in 2015. They are used here under the original [Creative Commons Attribution License](http://creativecommons.org/licenses/by/4.0/). The original activity was devised in a dark basement by [@cogdog](https://twitter.com/cogdog) and [@brlamb](https://twitter.com/brlamb).
 
