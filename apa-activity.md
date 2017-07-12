@@ -33,5 +33,5 @@ Examples include:
 3. EndNote is likely the most common product, but is pricey.
 4. [Cite This For Me](http://www.citethisforme.com/ca) \(formerly RefMe\)
 
-You should note that, while citation management
+You should note that, while citation management is very useful and will save you an enormous amount of time, it is not perfect. You need to ensure that you check your citations and reference list for errors.
 
