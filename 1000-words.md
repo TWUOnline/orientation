@@ -2,6 +2,10 @@ One of the key ways to add flair to your site and make it more interesting is to
 
 The best way to ensure you have permission to use the images you do is to create those images yourself! You do not need to be a professional photographer with oodles of expensive equipment to create interesting images. If you have a smartphone, you likely have a very good camera within arm's reach right now. In fact, it has been said that the best camera for you is the one you have available.
 
+Before we dive into developing your skills with photography, audio, and video, take a few minutes to watch the kinetic typography video below
+
+[Ira Glass on Storytelling.](https://vimeo.com/24715531)
+
 The activities[^1] on this page will give you some ideas and practice with taking better photos without you having to purchase any equipment.
 
 ##### Taking better photos
