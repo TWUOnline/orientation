@@ -18,6 +18,8 @@ Here is an example of how the absence of sound can provide a significant emotion
 
 For some of the best examples of audio storytelling, check out a few episodes of [The Truth podcast](http://www.thetruthpodcast.com/). The episodes are short \(&lt;20min\) and are described as 'movies for your ears'. Listen in a quiet place where you will be able to become immersed in the soundscapes of the story. For best results, use headphones.
 
+<html>
+<head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script>
 $(document).ready(function(){
@@ -26,10 +28,12 @@ $(document).ready(function(){
     });
 });
 </script>
-
+</head>
 <body>
 
 <button>Toggle between hide and show for a p element</button>
 
 <p>This is a paragraph.</p>
 
+</body>
+</html>
