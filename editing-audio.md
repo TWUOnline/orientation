@@ -26,7 +26,7 @@ $(document).ready(function(){
     });
 });
 </script>
-</head>
+
 <body>
 
 <button>Toggle between hide and show for a p element</button>
