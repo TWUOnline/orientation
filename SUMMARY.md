@@ -10,7 +10,7 @@
   * [Finding U](finding-u.md)
   * [Tracking the Trackers](tracking-the-trackers.md)
   * [1000 Words](1000-words.md)
-  * [Audio](audio.md)
+  * [Recording and Sharing Audio](recording-sharing-audio.md)
 * [Program Details](program-details.md)
   * [APA Activity](apa-activity.md)
 * [Notes and Resources](resources.md)
