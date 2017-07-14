@@ -13,8 +13,8 @@
 * [Poetry 17 \(Gardner Campbell\)](https://rampages.us/poetry17/)
 * [Mike Caulfield on Web Literacy \(Pressbook\)](https://webliteracy.pressbooks.com/)
 * [Mozilla: Safety First](https://advocacy.mozilla.org/en-US/safety)
+* [OERu course on cyber-security.](https://oeru.org/oeru-partners/the-open-university/introduction-to-cyber-security/)
 
-### 
 
 
 
