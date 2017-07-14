@@ -22,3 +22,12 @@ For some of the best examples of audio storytelling, check out a few episodes of
 Audacity is a free and open-source audio editing program that allows you to create your own layered audio tracks with either recorded or 'found' sounds.
 
 For the next few activities, you will need to have audacity downloaded and installed on your computer.
+
+You can download and install Audacity from http://www.audacityteam.org/download/.
+
+Once you have installed Audacity and created a new project, you will need to install the LAME encoder to allow you to export your files to MP3 format. [Instructions are here.](https://trinitywestern.teamdynamix.com/TDClient/KB/ArticleDet?ID=33356)
+
+Alan Levine ([@cogdog](https://twitter.com/cogdog) from The You Show) has created a couple of video tutorials on how to get started with creating and editing audio using Audacity. You can find a [14 min screencast here](https://www.youtube.com/watch?v=gXfVKSx7WtY), or a [40 minute presentation recording here](https://www.youtube.com/watch?v=cTw9ZwL0CTA).
+
+#####A note about GarageBand
+If you are using a Mac computer, you likely have access to GarageBand, which will work quite nicely for these activities, but we will focus these instructions on Audacity.
