@@ -19,7 +19,7 @@ You can either record sounds or find ones that are licensed for reuse. Some plac
 
 #####Part 2: Create your story
 
-I part 1, we suggested recording or finding sounds you can use to edit to a single piece; something that might introduce your eportfolio or web site readers to the environment of the place you work.  The story can be about a project you are working on, or an accomplishment, or something related to a research project you may be engaged in (or just uses sounds related to one of your strong interests).
+In part 1, we suggested recording or finding sounds you can use to edit to a single piece; something that might introduce your eportfolio or web site readers to the environment of the place you work.  The story can be about a project you are working on, or an accomplishment, or something related to a research project you may be engaged in (or just uses sounds related to one of your strong interests).
 
 If you have not gathered sounds, here are the sources we offer to find ones that are licensed for reuse. 
 
