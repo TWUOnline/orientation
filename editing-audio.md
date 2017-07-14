@@ -16,6 +16,6 @@ Here is an example of how the absence of sound can provide a significant emotion
 
 [https://create.twu.ca/orientation/ted-radio-hour-audio-demo/](https://create.twu.ca/orientation/ted-radio-hour-audio-demo/)
 
-For some of the best examples of audio storytelling, check out a few episodes of [The Truth podcast](http://www.thetruthpodcast.com/). The episodes are short \(&lt;20min\) and are described as 'movies for your ears'. Listen in a quiet place where you will be able to become immersed in the soundscapes of the story. For best results, use headphones.
+For some of the best examples of audio storytelling, check out a few episodes of [The Truth podcast](http://www.thetruthpodcast.com/). The episodes are short \(~20min or less\) and are described as 'movies for your ears'. Listen in a quiet place where you will be able to become immersed in the soundscapes of the story. For best results, use headphones.
 
 
