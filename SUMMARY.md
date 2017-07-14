@@ -12,6 +12,7 @@
   * [1000 Words](1000-words.md)
   * [Recording and Sharing Audio](recording-sharing-audio.md)
   * [Editing Audio](editing-audio.md)
+  * Sound Effects Story
 * [Program Details](program-details.md)
   * [APA Activity](apa-activity.md)
 * [Notes and Resources](resources.md)
