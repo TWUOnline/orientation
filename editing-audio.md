@@ -18,6 +18,13 @@ Here is an example of how the absence of sound can provide a significant emotion
 
 For some of the best examples of audio storytelling, check out a few episodes of [The Truth podcast](http://www.thetruthpodcast.com/). The episodes are short \(~20min or less\) and are described as 'movies for your ears'. Listen in a quiet place where you will be able to become immersed in the soundscapes of the story. For best results, use headphones.
 
+Sometimes sounds can be used to completely change the character of video, as below.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Star Wars, but all of the light saber sounds are Owen Wilson saying &quot;wow&quot; <a href="https://t.co/t5Yll0AV4h">pic.twitter.com/t5Yll0AV4h</a></p>&mdash; Josh Billinson (@jbillinson) <a href="https://twitter.com/jbillinson/status/885981744620589056">July 14, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
 ###Audacity
 Audacity is a free and open-source audio editing program that allows you to create your own layered audio tracks with either recorded or 'found' sounds.
 
