@@ -1,8 +1,6 @@
 Now that you have experienced the basics of recording and sharing audio, it's time to dig a little deeper and explore how to use audio recordings to tell a coherent story.
 
-There are a tremendous number of audio podcasts available through iTunes, Stitcher, AudioBoom, and many others.
-
-The authors of [The YouShow](http://youshow.trubox.ca/about/schedule/unit-4-part-1/) wrote this about audio.
+The authors of [The YouShow](http://youshow.trubox.ca/about/schedule/unit-4-part-1/) wrote this about audio:
 
 > Some things to notice when listening to audio are the pacing \(think of how they are equivalent of paragraphs in sound\), the use of background music, the varying of volume, sound effects, ambient/environmental sounds, the introduction of radio “bumpers” to remind us of the show, introduction and exits. Try to tune into the layering of sounds, how audio can create a sense of place by being more than just a recording, but a deliberate stacking of audio layers.
 
@@ -28,7 +26,7 @@ Sometimes sounds can be used to completely change the character of video, as bel
 ###Audacity
 Audacity is a free and open-source audio editing program that allows you to create your own layered audio tracks with either recorded or 'found' sounds.
 
-For the next few activities, you will need to have audacity downloaded and installed on your computer.
+For the next few activities, you will need to have Audacity downloaded and installed on your computer.
 
 You can download and install Audacity from http://www.audacityteam.org/download/.
 
