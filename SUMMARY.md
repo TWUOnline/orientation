@@ -16,4 +16,5 @@
 * [Program Details](program-details.md)
   * [APA Activity](apa-activity.md)
 * [Notes and Resources](resources.md)
+* [DigPed Notes](digped-notes.md)
 
