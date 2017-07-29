@@ -35,8 +35,6 @@ McMillan Cottom, Tressie. [Academic Outrage: When The Culture Wars Go Digital](h
 
 Notes:
 
-
-
 White, David S. and Alison Le Cornu. [Visitors & Residents: A New Typology for Online Engagement](http://firstmonday.org/article/view/3171/3049)
 
 Skallerup Bessette, Lee. [Arrested Professional Development](http://umwdtlt.com/arrested-professional-development/)
@@ -87,9 +85,13 @@ Examples
 
 -lurking in resident spaces
 
-
-
 ### Day 2
+
+Kris Shaffer - Demystifying EdTech Algorithms
+
+http://pushpullfork.com/edtechalgorithms/\#/
+
+https://github.com/kshaffer/edtechalgorithms
 
 
 
