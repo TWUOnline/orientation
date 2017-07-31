@@ -87,11 +87,21 @@ Examples
 
 ### Day 2
 
-Kris Shaffer - Demystifying EdTech Algorithms
+##### Kris Shaffer - Demystifying EdTech Algorithms
 
-http://pushpullfork.com/edtechalgorithms/\#/
+[http://pushpullfork.com/edtechalgorithms/\#/](http://pushpullfork.com/edtechalgorithms/#/)
 
-https://github.com/kshaffer/edtechalgorithms
+[https://github.com/kshaffer/edtechalgorithms](https://github.com/kshaffer/edtechalgorithms)
+
+> Machine learning involves the use of computers to perform an algorithmic analysis of data in order to discover relationships in that data, often with the goal of making predictions about future data.
+>
+> Gain a more nuanced understanding of relationships within the data, and make better predictions about future outcomes, than could be done by a human with pencil, paper, and a calculator.
+
+##### Media Literacy - Bonnie
+
+Digital Polarization Project - Caulfield
+
+
 
 
 
