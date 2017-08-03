@@ -9,6 +9,7 @@
 * [Digital Literacy](digital-literacy.md)
   * [Finding U](finding-u.md)
   * [Tracking the Trackers](tracking-the-trackers.md)
+  * [Great Googly Moogly](great-googly-moogly.md)
   * [1000 Words](1000-words.md)
   * [Recording and Sharing Audio](recording-sharing-audio.md)
   * [Editing Audio](editing-audio.md)
