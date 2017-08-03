@@ -28,9 +28,9 @@ We highly recommend that you use citation management software to help you with c
 
 Examples include:
 
-1. Zotero is free and open source and includes browser bookmarklets to help you save citations from online sources and databases. Zotero integrates well with MS Word.
-2. Bookends is a premium product for MacOS only and integrates with several word processors.
-3. EndNote is likely the most common product, but is pricey.
+1. [Zotero](https://www.zotero.org/) is free and open source and includes browser bookmarklets to help you save citations from online sources and databases. Zotero integrates well with MS Word.
+2. [Bookends](http://sonnysoftware.com/) is a premium product for MacOS only and integrates with several word processors.
+3. [EndNote](http://endnote.com/) is likely the most common product, but is pricey.
 4. [Cite This For Me](http://www.citethisforme.com/ca) \(formerly RefMe\)
 
 You should note that, while citation management is very useful and will save you an enormous amount of time, it is not perfect. You need to ensure that you check your citations and reference list for errors.
