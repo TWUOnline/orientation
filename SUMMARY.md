@@ -10,6 +10,7 @@
   * [Finding U](finding-u.md)
   * [Tracking the Trackers](tracking-the-trackers.md)
   * [Great Googly Moogly](great-googly-moogly.md)
+  * [The Art of Crap Detection](the-art-of-crap-detection.md)
   * [1000 Words](1000-words.md)
   * [Recording and Sharing Audio](recording-sharing-audio.md)
   * [Editing Audio](editing-audio.md)
