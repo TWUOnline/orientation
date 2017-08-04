@@ -25,7 +25,7 @@ To begin, log out of all of your social media accounts, especially Google, then 
 
 ##### Activity 2
 
-To begin, read the following short article from [Alan November](http://novemberlearning.com/educational-resources-for-educators/teaching-and-learning-articles/the-advanced-google-searches-every-student-should-know/). While you are reading through the post, follow along with November's suggested search terms related to the Iranian Hostage Crisis. 
+To begin, read the following short article from [Alan November](http://novemberlearning.com/educational-resources-for-educators/teaching-and-learning-articles/the-advanced-google-searches-every-student-should-know/). While you are reading through the post, follow along with November's suggested search terms related to the Iranian Hostage Crisis.
 
 Once you have completed that process, read the somewhat cheeky article [Google advanced search](https://bynd.com/news-ideas/google-advanced-search-comprehensive-list-google-search-operators/).
 
@@ -37,5 +37,5 @@ With your new Google skills, try the following searches \(you may have to find s
 
 ##### Blog
 
-Once you have completed these activities, create a new post on your blog and write about your experience. Use the categories 'TWU Online' and 'Google' so we can organize your posts on the course hub.
+Once you have completed these activities, create a new post on your blog and write about your experience. Please incorporate appropriate visual elements \(images, screenshots, reaction GIFs\) and use the categories 'TWU Online' and 'Google' so we can organize your posts on the course hub.
 
