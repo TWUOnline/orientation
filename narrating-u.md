@@ -32,7 +32,7 @@ Once you have drafted a structure \(it will change over time\), start building a
 
 Finally, for this activity, please create a new post that describes the choices you made while creating the structure for your site. What challenges did you encounter? How did you work through the challenges? What would you do next time? You can read my posts in response to a similar activity [here](http://merelearning.ca/reflecting/structuring-my-show/) and [here](http://merelearning.ca/reflecting/refining-the-structure/).
 
-Make sure to add your post to the category you are using for this course before you publish!
+Make sure to add your post to the categories 'TWU Online' and 'Narrating U' before you publish!
 
 [^1]: [Andragogy](https://en.wikipedia.org/wiki/Andragogy) is the application of learning principles to adult education.
 
