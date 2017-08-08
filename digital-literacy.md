@@ -45,13 +45,7 @@ Had Justine understood how much her tweet could be amplified by the way that the
 1. Have you ever witnessed or experienced negative fallout for something you or someone else said online?
 2. Have you ever participated in publicly shaming a person or organizations for something that they said online?
 
-##### Protecting Yourself
+##### 
 
-One of the first things that you should do to protect yourself online is to consider how you are protecting your own data and information. Many websites require that you sign in before you can fully participate in the site. This allows the owner of the site to track who you are and what you do on their site. Popular sites generate enormous amounts of data on you and your online activities, and that may not really concern you. Many people think that they have nothing to hide, so they have nothing to worry about.
 
-Consider the following video.
-
-[https://youtu.be/33CIVjvYyEk](https://youtu.be/33CIVjvYyEk)
-
-Keep in mind that if the site that you are using is 'free', then the site and its services are not the product; you are the product. Your online habits are being scrutinized and subsequently bought and sold so that the original site and sites that purchase your data can more effectively sell you things.
 
