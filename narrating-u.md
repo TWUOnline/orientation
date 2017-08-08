@@ -1,4 +1,4 @@
-# Narrating U
+##### Narrating U
 
 As you begin your journey through higher ed, maybe for a second or third time, and maybe after a long time out of formal education, you will change and grow. Your views will change. You will become less confident in your previously-held ideas and conceptions about the world. You will begin to see events and ideas with a new, and more deeply thought-out perspective. Learning requires you to change. If you are not changing, you are not learning and you are not spending your tuition money wisely.
 
@@ -12,7 +12,7 @@ Now, that may sound like an odd request, but it is rooted in sound andragogy[^1]
 
 Narrating your process isn't about being correct. It is about expecting to be wrong about some things and working towards a more correct understanding. It is about helping your colleagues as you all work towards a more correct understanding.
 
-### Getting Started
+##### Getting Started
 
 For this activity, you will need to start thinking through a structure for your site. WordPress has powerful content management features built in, so you have a significant amount of control over how your site is structured.
 
