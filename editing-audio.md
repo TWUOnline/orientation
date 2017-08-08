@@ -23,7 +23,7 @@ Sometimes sounds can be used to completely change the character of video, as bel
 
 
 
-###Audacity
+#####Audacity
 Audacity is a free and open-source audio editing program that allows you to create your own layered audio tracks with either recorded or 'found' sounds.
 
 For the next few activities, you will need to have Audacity downloaded and installed on your computer.
