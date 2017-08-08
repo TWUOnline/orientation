@@ -25,7 +25,7 @@ The suggestions below are borrowed from[ TEN: Ten Ways to Improve Your Craft. No
 
 These are of course, very general guides. You get better as you look at yours and other’s photos. You get better when you think more before you press the shutter. You get better when you try new approaches. You get better when you break the rules.
 
-### Suggested Activities
+##### Suggested Activities
 
 ##### Practice these techniques and write about your results
 
