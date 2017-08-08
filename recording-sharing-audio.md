@@ -22,7 +22,7 @@ Create an account at Soundcloud and record or upload a clip.
 
 Once you have created and uploaded audio clips in anchor.fm and SoundCloud share them in a new post on your blog under the category 'audio' and 'TWU Online'.
 
-In your post, include some thoughts on the process. Was the app easy to use? Are you satisfied with the recording? What might you do differently next time?
+In your post, include some thoughts on the process. Was the app easy to use? Are you satisfied with the recording? What might you do differently next time? Was it easy to share from the app into your blog? Did you discover how to embed SoundCloud files?
 
 [^1] These activities are adapted from [The YouShow](http://youshow.trubox.ca/about/schedule/unit-4-part-1/) and used here under the original [Creative Commons Attribution license](http://creativecommons.org/licenses/by/4.0/) with thanks to [@cogdog](https://twitter.com/cogdog) and [@brlamb](https://twitter.com/brlamb).
 
