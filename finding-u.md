@@ -1,5 +1,3 @@
-### Finding U
-
 Have you ever applied for a job? Do you know that a growing number of employers are performing online searches of prospective candidates? Do you know what is available online about yourself?
 
 This simple activity will help you consider what you share online and why you choose to share it. It is not necessarily wrong to share your life online, but it is certainly unwise to do so without considering the implications of your choices.
