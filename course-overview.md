@@ -1,6 +1,3 @@
-# Trinity Western University
-
-## Online Learning Orientation
 
 Welcome to the online learning orientation course for Trinity Western University.
 
