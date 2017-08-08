@@ -39,6 +39,10 @@ And you can find <a href="http://assignments.ds106.us/assignments/sound-effects-
 
 You should either upload your final audio (exported as MP3) to your blog or you can host it on <a href="http://soundcloud.com">SoundCloud.com</a> - the latter is handy for Wordpress users since you can embed the sounds just by pasting it's sound cloud URL into a blank line of your editor (other blog platforms can use the SoundCloud HTML embed code). 
 
-With Soundcloud we get something like this
+With Soundcloud you can paste your URL like this
 
+~~~
 https://soundcloud.com/pboyle5912/5-sounds
+~~~
+
+To get this
