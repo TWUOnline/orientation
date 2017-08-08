@@ -2,7 +2,7 @@
 
 > "The capacity to make meaning with digital tools." Bonnie Stewart
 
-It is concerned with the process of handling data rather than accumulating data.
+Digital literacy is concerned with the process of handling data rather than accumulating data.
 
 We mentioned a definition of digital literacy in the introduction to this course, but, as is true for many things, it's not quite that simple.
 
