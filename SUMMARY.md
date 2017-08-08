@@ -6,6 +6,7 @@
   * [Navigating a Connected Course](navigating-a-connected-course.md)
   * [WordPress Setup](wordpress-setup.md)
   * [Narrating U](narrating-u.md)
+  * [TWU Library](twu-library.md)
 * [Digital Literacy](digital-literacy.md)
   * [Finding U](finding-u.md)
   * [Tracking the Trackers](tracking-the-trackers.md)

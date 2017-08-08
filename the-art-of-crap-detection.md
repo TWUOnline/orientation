@@ -12,9 +12,13 @@ How would you proceed? Does the email seem legitimate? The Center for Disease Co
 
 Does the email seem sketchy? Why or why not?
 
-Create a new blog post to write about what artifacts in the email cause you to trust, or mistrust it. Use the category 'bananas'.
+Create a new blog post to write about what artifacts in the email cause you to trust, or mistrust it. Use the categories 'TWU Online' and 'bananas'.
+
+##### Web Literacy for Student Fact-Checkers
+
+Michael Caulfield, Director of Blended and Networked Learning at Washington State University has written \(and continues to update\) an excellent guide for students looking to improve their ability to confirm the quality of web sources.
+
+##### [https://webliteracy.pressbooks.com/](https://webliteracy.pressbooks.com/)
 
 
-
-[https://webliteracy.pressbooks.com/](https://webliteracy.pressbooks.com/)
 
