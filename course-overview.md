@@ -5,7 +5,7 @@ This course is designed to provide you with multiple opportunities to think abou
 
 Knowing this, we need to prepare you to be able to protect yourself, especially if you are in a vulnerable community, or to protect those around you who are more vulnerable than you.
 
-### Outcomes
+##### Outcomes
 
 Learners will be able to:
 
@@ -18,7 +18,7 @@ Learners will be able to:
 
 \*These outcomes were originally published for the course 'Learning in a digital age' by OERu and are reproduced here under a Creative Commons Attribution 4.0 International License
 
-## Course Structure
+##### Course Structure
 
 This short course is divided into two sections. Your program or instructor may have a third section that covers program specific details.
 
