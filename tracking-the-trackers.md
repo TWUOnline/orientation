@@ -1,4 +1,4 @@
-#### Tracking the Trackers
+##### Tracking the Trackers
 
 \[ted id=1436 lang=en\]
 
@@ -41,6 +41,4 @@ Create a new post on your blog and write a little bit about what you noticed usi
 * how long does your normal browser keep cookies from third parties?
 
 Use the categories 'Tracking' and 'TWU Online' in your post.
-
-
 
