@@ -40,10 +40,13 @@ If the career and personal life of a communications professional like Justine ca
 
 Had Justine understood how much her tweet could be amplified by the way that the web \(and Twitter\) works, she might have made a very different decision and not sent that tweet. Sam Biddle did understand the power of the web to amplify messages, and he consciously used that knowing that Justine would be victimized. A digitally literate person ought to make wise and strategic decisions about what they share on the web.
 
-##### Questions to consider
+##### Blog
+
+Create a new post on your blog using the categories 'TWU Online' and 'Digital Literacy'. Here are some questions you might want to consider in your post.
 
 1. Have you ever witnessed or experienced negative fallout for something you or someone else said online?
-2. Have you ever participated in publicly shaming a person or organizations for something that they said online?
+2. Have you ever witnessed or experienced the public shaming a person or organizations for something that they said online?
+3. What strategies will you employ to ensure that you don't become a participant or victim of the Internet Rage Machine?
 
 ##### 
 
