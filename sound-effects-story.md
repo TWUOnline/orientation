@@ -21,15 +21,7 @@ You can either record sounds or find ones that are licensed for reuse. Some plac
 
 In part 1, we suggested recording or finding sounds you can use to edit to a single piece; something that might introduce your eportfolio or web site readers to the environment of the place you work.  The story can be about a project you are working on, or an accomplishment, or something related to a research project you may be engaged in (or just uses sounds related to one of your strong interests).
 
-If you have not gathered sounds, here are the sources we offer to find ones that are licensed for reuse. 
-
-<ul>
-	<li><a href="http://www.freesound.org/">Freesound</a> (free but you need to create an account to download)</li>
-	<li><a href="http://macaulaylibrary.org/">McCauley Library</a> (Cornell Lab of Ornithology) offers wildlife sounds.</li>
-	<li><a href="http://www.pdsounds.org/">public domain sounds</a> shared and recorded by people around the world.</li>
-	<li><a href="http://soundbible.com/free-sound-effects-1.html">SoundBible</a> free sound effects</li>
-	<li><a href="http://commons.wikimedia.org/wiki/Category:Sounds_by_type">Wikimedia Commons Sounds by Type</a></li>
-</ul>
+If you have not gathered sounds, see above for links to some resources.
 
 Assemble the clips in Audacity to tell a story. Use multiple tracks so you can overlap as needed, and or use fade in / fade out so there are no abrupt changes. Think about using an ambient sound as a background. The basic steps for doing this (and some useful things to know about Audacity) are shown below
 
