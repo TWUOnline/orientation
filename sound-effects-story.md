@@ -29,12 +29,18 @@ Here is one such example done for a [school project](https://www.youtube.com/wat
 
 And you can find <a href="http://assignments.ds106.us/assignments/sound-effects-story/">many more as responses to the DS106 Sound Effects Story assignment</a>.
 
-You should either upload your final audio (exported as MP3) to your blog or you can host it on <a href="http://soundcloud.com">SoundCloud.com</a> - the latter is handy for Wordpress users since you can embed the sounds just by pasting it's sound cloud URL into a blank line of your editor (other blog platforms can use the SoundCloud HTML embed code). 
+Upload your final audio (exported as MP3) to [SoundCloud](http://soundcloud.com) and then you can embed the sounds just by pasting it's SoundCloud URL into a blank line of your editor (other blog platforms can use the SoundCloud HTML embed code). 
 
-With Soundcloud you can paste your URL like this
+When you paste your URL like this
 
 ~~~
 https://soundcloud.com/pboyle5912/5-sounds
 ~~~
 
-To get this
+You get an embedded SoundCloud player like at the bottom of this post.
+
+#####Blog
+
+Once you have uploaded your audio to SoundCloud, create a new post with your story embedded and tell us about the process you went through to create the story. Where did you find the audio files? What challenges did you have to work through? what would you do differently next time?
+
+Use the categories 'TWU Online' and 'Sound Effect Story'.
