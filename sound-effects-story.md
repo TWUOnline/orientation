@@ -23,17 +23,9 @@ In part 1, we suggested recording or finding sounds you can use to edit to a sin
 
 If you have not gathered sounds, see above for links to some resources.
 
-Assemble the clips in Audacity to tell a story. Use multiple tracks so you can overlap as needed, and or use fade in / fade out so there are no abrupt changes. Think about using an ambient sound as a background. The basic steps for doing this (and some useful things to know about Audacity) are shown below
+Assemble the clips in Audacity to tell a story. Use multiple tracks so you can overlap as needed, and or use fade in / fade out so there are no abrupt changes. Think about using an ambient sound as a background. The basic steps for doing this (and some useful things to know about Audacity) [are shown here](https://www.youtube.com/watch?v=cTw9ZwL0CTA) and as well in [this screencast](https://www.youtube.com/watch?v=gXfVKSx7WtY)
 
-https://www.youtube.com/watch?v=cTw9ZwL0CTA
-
-and as well in this screencast 
-
-https://www.youtube.com/watch?v=gXfVKSx7WtY
-
-Here is one such example done for a school project
-
-https://www.youtube.com/watch?v=7-7eekV9gPc
+Here is one such example done for a [school project](https://www.youtube.com/watch?v=7-7eekV9gPc)
 
 And you can find <a href="http://assignments.ds106.us/assignments/sound-effects-story/">many more as responses to the DS106 Sound Effects Story assignment</a>.
 
