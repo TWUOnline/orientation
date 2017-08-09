@@ -26,7 +26,7 @@ One advantage of using podcasts as a format on the web is that users can listen 
 
 In December 2013, the Senior Director for Corporate Communications at the internet company IAC was fired from her job. The reason that she was fired was that there was a massive global response to something that she did. She sent a tweet.
 
-Justine Sacco was traveling from New York to Cape Town, South Africa to visit family for the holidays and, on a layover at Heathrow, she tweeted to her 170 Twitter followers:
+Justine was traveling from New York to Cape Town, South Africa to visit family for the holidays and, on a layover at Heathrow, she tweeted to her 170 Twitter followers:
 
 > Going to Africa. Hope I don’t get AIDS. Just kidding. I’m white!
 
