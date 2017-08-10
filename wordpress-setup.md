@@ -54,7 +54,7 @@ When you click on the link to a post on the course hub, you will be taken to the
 Before you register, you will need to have completed the following tasks on your own site:
 
 * create a site on your own URL,
-* create a category called 'TWU Online Orientation' and copy the slug to your clipboard.
+* create a category called 'TWU Online' and copy the slug to your clipboard.
 
 
 
