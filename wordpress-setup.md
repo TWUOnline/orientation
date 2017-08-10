@@ -56,5 +56,9 @@ Before you register, you will need to have completed the following tasks on your
 * create a site on your own URL,
 * create a category called 'TWU Online' and copy the slug to your clipboard.
 
+##### Blog
+
+Once you have registered your site and received confirmation, create your first post and introduce yourself to others taking this course. Tell us a little bit about yourself, or, tell us about your pets. Remember to be aware that your posts are public on the web, but that you can determine levels of privacy that make sense for you. Make sure that you add your post to the category ''TWU Online' and a new category called 'Hi'.
+
 
 
