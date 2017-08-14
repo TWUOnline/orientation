@@ -47,7 +47,7 @@ Watch both videos in the [Organizing Content with Taxonomies](http://umwdtlt.com
 
 ##### Register your site
 
-The final setup task for you is to register your blog so that it will show up on the [course hub](https://create.twu.ca/orientation). You posts will be syndicated from your site to the course hub through RSS, or Really Simple Syndication. The course hub will be subscribed to your 'TWU Online Orientation' category feed. Any time you post in that category, your post will show up in the feed on the course hub. The same will be true for all other participants in the course, so you only need to check one spot to be able to see what everyone is writing about.
+The final setup task for you is to register your blog so that it will show up on the [course hub](https://create.twu.ca/orientation). You posts will be syndicated from your site to the course hub through RSS, or Really Simple Syndication. The course hub will be subscribed to your 'TWU Online' category feed. Any time you post in that category, your post will show up in the feed on the course hub. The same will be true for all other participants in the course, so you only need to check one spot to be able to see what everyone is writing about.
 
 When you click on the link to a post on the course hub, you will be taken to the site where the post was originally published.
 
