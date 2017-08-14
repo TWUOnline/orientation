@@ -15,6 +15,10 @@
 * [Mozilla: Safety First](https://advocacy.mozilla.org/en-US/safety)
 * [OERu course on cyber-security.](https://oeru.org/oeru-partners/the-open-university/introduction-to-cyber-security/)
 
+#####Deleted Outcome Aug 14/17
+
+
+3. Apply appropriate Creative Commons licenses to their work and articulate their reasons for their choices.
 
 
 
