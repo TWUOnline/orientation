@@ -20,4 +20,5 @@
   * [APA Activity](apa-activity.md)
 * [Notes and Resources](resources.md)
 * [DigPed Notes](digped-notes.md)
+* [License](license.md)
 
