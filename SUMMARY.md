@@ -21,4 +21,5 @@
 * [Notes and Resources](resources.md)
 * [DigPed Notes](digped-notes.md)
 * [License](license.md)
+* [Sample Word file in MD](sample-word-file-in-md.md)
 
