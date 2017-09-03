@@ -124,11 +124,11 @@ Feel free to disagree with my time saving assertions, but I have years of experi
 
 Oh, one more thing, how do you create those subscription files? Many ways.
 
-* In Feedly, go under your account icon and look for organize. Select the feeds you want to package, and click the small arrow button to the right of Import, this leads to an export option, or directly https://feedly.com/i/opml. The limit here is you will export all your subscriptions (which can be handy if you want to try another feed reader).
-* If you are running Feed WordPress as an aggregator, there is a WordPress method to export the subscriptions as OPML, see the bottom of https://en.support.wordpress.com/blogroll/import-export-links/
-* If you have a list of all the Feed URLs, try http://opml-gen.ovh/
+* In Feedly, go under your account icon and look for organize. Select the feeds you want to package, and click the small arrow button to the right of Import, this leads to an export option, or directly [https://feedly.com/i/opml](https://feedly.com/i/opml). The limit here is you will export all your subscriptions (which can be handy if you want to try another feed reader).
+* If you are running Feed WordPress as an aggregator, there is a WordPress method to export the subscriptions as OPML, see the bottom of [https://en.support.wordpress.com/blogroll/import-export-links/](https://en.support.wordpress.com/blogroll/import-export-links/)
+* If you have a list of all the Feed URLs, try [http://opml-gen.ovh/](http://opml-gen.ovh/)
 
-What are you waiting for now? Set up your Feedly and start saving time (well unless you spend more time reading cool stuff you find).
+What are you waiting for now? Set up your Feedly and start saving time (well unless you spend more time reading the cool stuff you will find).
 
 
 
