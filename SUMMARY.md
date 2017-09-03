@@ -5,6 +5,7 @@
 * [Digital Skills](digital-skills.md)
   * [Navigating a Connected Course](navigating-a-connected-course.md)
   * [WordPress Setup](wordpress-setup.md)
+  * [Curating U](curating-u.md)
   * [Narrating U](narrating-u.md)
   * [TWU Library](twu-library.md)
 * [Digital Literacy](digital-literacy.md)
@@ -21,6 +22,5 @@
 * [Notes and Resources](resources.md)
 * [DigPed Notes](digped-notes.md)
 * [License](license.md)
-* [Sample Word file in MD](sample-word-file-in-md.md)
 * [Curating U](curating-u.md)
 
