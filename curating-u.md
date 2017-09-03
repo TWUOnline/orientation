@@ -130,7 +130,3 @@ Oh, one more thing, how do you create those subscription files? Many ways.
 
 What are you waiting for now? Set up your Feedly and start saving time (well unless you spend more time reading the cool stuff you will find).
 
-
-
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Alan Levine</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://cogdogblog.com/2017/09/indispensable-tool/" rel="dct:source">http://cogdogblog.com/2017/09/indispensable-tool/</a>.
