@@ -1,3 +1,10 @@
+##### A Note About Privacy
+
+Before you get started on creating your own blog you may have questions about how much you should share on your blog, and that is good. We are going to have you work through some activities to help you determine your level of comfort with sharing your growth on the web, but for now, there are some things that you can do to ensure that your data are protected on the web.
+
+* Sign up for WordPress under a pseudonym. You do not have to use your real name on your blog. Just make sure that your instructor knows who you are and what your pseudonym is.
+* Use the privacy controls in WordPress to protect your work. You can set passwords on individual pages and posts, or set them to be completely private. Just be aware that your instructor will need to be a user on your blog if you want to use private pages.
+
 You have three main options for getting started with WordPress.
 
 ##### Option 1 \(very easy; low maintenance; moderate autonomy; no cost\)
@@ -10,7 +17,7 @@ Instructions contained in this orientation course will assume that you have chos
 
 If you choose this option, you can always export your entire site and install it on your own domain at any time. We'd be happy to help.
 
-To choose this option, [click here](https://create.twu.ca/orientation/regis).
+To choose this option, [click here](https://create.twu.ca/orientation/regis). This link will open in a new window. When you have filled out your information, please close the window or tab and return here.
 
 ##### Option 2 \(very easy; no maintenance; minimal autonomy; variable cost options\)
 
@@ -26,12 +33,7 @@ You can register for your own hosting package from a web host. We highly recomme
 
 TWU will be able to provide some support if you choose this option.
 
-##### A Note About Privacy
-
-You may have questions about how much you should share on your blog, and that is good. We are going to have you work through some activities to help you determine your level of comfort with sharing your growth on the web, but for now, there are some things that you can do to ensure that your data are protected on the web.
-
-* Sign up for WordPress under a pseudonym. You do not have to use your real name on your blog. Just make sure that your instructor knows who you are and what your pseudonym is.
-* Use the privacy controls in WordPress to protect your work. You can set passwords on individual pages and posts, or set them to be completely private. Just be aware that your instructor will need to be a user on your blog if you want to use private pages.
+##### 
 
 ##### How to get Started
 
@@ -59,6 +61,4 @@ Before you register, you will need to have completed the following tasks on your
 ##### Blog
 
 Once you have registered your site and received confirmation, create your first post and introduce yourself to others taking this course. Tell us a little bit about yourself, or, tell us about your pets. Remember to be aware that your posts are public on the web, but that you can determine levels of privacy that make sense for you. Make sure that you add your post to the category ''TWU Online' and a new category called 'Hi'.
-
-
 
