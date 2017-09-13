@@ -11,17 +11,17 @@ You have three main options for getting started with WordPress.
 
 _**This is the option that we strongly recommend!**_
 
-You can register for your own WordPress site managed by TWU. Choosing this option will give you a site at create.twu.ca/\[your\_title\_goes\_here\], where you get to choose what goes between the square brackets. You will have access to a limited number of themes and plugins, but you will be able to request others. TWU will ensure that WordPress is up-to-date and that it is secure and backed-up and we will be able to provide significant support as you get set up.
+You can sign up for your own WordPress site managed by TWU. Choosing this option will give you a site at create.twu.ca/\[your\_title\_goes\_here\], where you get to choose what goes between the square brackets. You will have access to a limited number of themes and plugins, but you will be able to request others. TWU will ensure that WordPress is up-to-date and that it is secure and backed-up and we will be able to provide significant support as you get set up.
 
 Instructions contained in this orientation course will assume that you have chosen this option.
 
 If you choose this option, you can always export your entire site and install it on your own domain at any time. We'd be happy to help.
 
-To choose this option, [click here](https://create.twu.ca/register). This link will open in a new window. When you have filled out your information, please close the window or tab and return here.
+Click the 'Sign Up' button at the bottom of this page to choose this option.
 
 ##### Option 2 \(very easy; no maintenance; minimal autonomy; variable cost options\)
 
-You can register for a site at [wordpress.com](http://wordpress.com). Choosing this option will give you a site at \[your-title-goes-here\].wordpress.com, where you get to choose what goes between the square brackets, as long as that title is still available. You may also purchase your own custom domain name such as \[your-title-goes-here\].ca and point it to your site. You will have access to a huge number of themes \(both free and premium\), but no plugins. WordPress.com will ensure that your site is up-to-date and secure. Since this option is not controlled by TWU, there may be limited help that we can provide.
+You can sign up for a site at [wordpress.com](http://wordpress.com). Choosing this option will give you a site at \[your-title-goes-here\].wordpress.com, where you get to choose what goes between the square brackets, as long as that title is still available. You may also purchase your own custom domain name such as \[your-title-goes-here\].ca and point it to your site. You will have access to a huge number of themes \(both free and premium\), but no plugins. WordPress.com will ensure that your site is up-to-date and secure. Since this option is not controlled by TWU, there may be limited help that we can provide.
 
 Instructions contained in this course may differ slightly if you choose this option.
 
@@ -32,8 +32,6 @@ WordPress.com offers higher levels of service and more options for a fee, and yo
 You can register for your own hosting package from a web host. We highly recommend [Reclaim Hosting](http://reclaimhosting.com) as they are inexpensive, they cater specifically to higher education, and they have highly responsive customer service. Choosing this option will give you your own domain name \(and the option of subdomains\) as well as the ability to install WordPress and also a wide variety of other web apps as you see fit. You will have access to all the themes and plugins that you want \(and can afford\). You will be responsible for maintaining your site updates and security \(there are plugins for that\).
 
 TWU will be able to provide some support if you choose this option.
-
-##### 
 
 ##### How to get Started
 
@@ -47,9 +45,9 @@ Once you have worked through the basics of the dashboard, take some time to choo
 
 Watch both videos in the [Organizing Content with Taxonomies](http://umwdtlt.com/wordpress-basics/#organizing-content-with-taxonomies) category on the UMW DTLT site, and then create a category called 'TWU Online' on your site. If you are reading this page in the context of a different course, you will likely be directed to create a taxonomy of categories specific to that course.
 
-##### Register your site
+##### Tell us the URL for your RSS feed
 
-The final setup task for you is to register your blog so that it will show up on the [course hub](https://create.twu.ca/orientation). You posts will be syndicated from your site to the course hub through RSS, or Really Simple Syndication. The course hub will be subscribed to your 'TWU Online' category feed. Any time you post in that category, your post will show up in the feed on the course hub. The same will be true for all other participants in the course, so you only need to check one spot to be able to see what everyone is writing about.
+The final setup task for you is to tell us the URL for your RSS feed so that your posts will show up on the [course hub](https://create.twu.ca/orientation). You posts will be syndicated from your site to the course hub through RSS, or Really Simple Syndication. The course hub will be subscribed to your 'TWU Online' category feed. Any time you post in that category, your post will show up in the feed on the course hub. The same will be true for all other participants in the course, so you only need to check one spot to be able to see what everyone is writing about.
 
 When you click on the link to a post on the course hub, you will be taken to the site where the post was originally published.
 
@@ -60,5 +58,5 @@ Before you register, you will need to have completed the following tasks on your
 
 ##### Blog
 
-Once you have registered your site and received confirmation, create your first post and introduce yourself to others taking this course. Tell us a little bit about yourself, or, tell us about your pets. Remember to be aware that your posts are public on the web, but that you can determine levels of privacy that make sense for you. Make sure that you add your post to the category ''TWU Online' and a new category called 'Hi'.
+Once you have told us your RSS feed, create your first post and introduce yourself to others taking this course. Tell us a little bit about yourself, or tell us about your pets. Remember to be aware that your posts are public on the web, but that you can determine levels of privacy that make sense for you. Make sure that you add your post to the category ''TWU Online' and a new category called 'Hi'.
 
