@@ -17,7 +17,7 @@ Instructions contained in this orientation course will assume that you have chos
 
 If you choose this option, you can always export your entire site and install it on your own domain at any time. We'd be happy to help.
 
-To choose this option, [click here](https://create.twu.ca/orientation/regis). This link will open in a new window. When you have filled out your information, please close the window or tab and return here.
+To choose this option, [click here](https://create.twu.ca/register). This link will open in a new window. When you have filled out your information, please close the window or tab and return here.
 
 ##### Option 2 \(very easy; no maintenance; minimal autonomy; variable cost options\)
 
