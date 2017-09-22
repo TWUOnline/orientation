@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Colin subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="@CogDog's Readable" title="@CogDog's Readable">
+            <outline type="rss" text="Brain Pickings" title="Brain Pickings" xmlUrl="http://feedproxy.google.com/brainpickings/rss" htmlUrl="https://www.brainpickings.org"/>
+            <outline type="rss" text="JSTOR Daily" title="JSTOR Daily" xmlUrl="http://daily.jstor.org/feed/" htmlUrl="https://daily.jstor.org"/>
+            <outline type="rss" text="Boing Boing" title="Boing Boing" xmlUrl="http://feeds.boingboing.net/boingboing/iBag" htmlUrl="https://boingboing.net"/>
+            <outline type="rss" text="ScienceDaily: Latest Science News" title="ScienceDaily: Latest Science News" xmlUrl="http://feeds.sciencedaily.com/sciencedaily" htmlUrl="https://www.sciencedaily.com/news/"/>
+            <outline type="rss" text="McSweeney’s" title="McSweeney’s" xmlUrl="http://feeds.feedburner.com/mcsweeneys" htmlUrl="https://www.mcsweeneys.net/"/>
+            <outline type="rss" text="Open Culture" title="Open Culture" xmlUrl="http://feeds.feedburner.com/OpenCulture" htmlUrl="http://www.openculture.com"/>
+            <outline type="rss" text="Best of The Atlantic" title="Best of The Atlantic" xmlUrl="https://www.theatlantic.com/feed/best-of/" htmlUrl="https://www.theatlantic.com/"/>
+        </outline>
+        <outline text="Orientation" title="Orientation">
+            <outline type="rss" text="No Contest » Feed" title="No Contest » Feed" xmlUrl="https://create.twu.ca/nocontest/feed/" htmlUrl="https://create.twu.ca/nocontest"/>
+            <outline type="rss" text="MRWILLIAMSPE.COM » TWU Online Category Feed" title="MRWILLIAMSPE.COM » TWU Online Category Feed" xmlUrl="https://mrwilliamsphysed.wordpress.com/category/twu-online/feed/" htmlUrl="https://mrwilliamsphysed.wordpress.com"/>
+            <outline type="rss" text="no contest &gt; Comments" title="no contest &gt; Comments" xmlUrl="https://create.twu.ca/nocontest/comments/feed/" htmlUrl="https://create.twu.ca/nocontest"/>
+            <outline type="rss" text="|Bonnie| » Feed" title="|Bonnie| » Feed" xmlUrl="https://create.twu.ca/bonnie/feed/" htmlUrl="https://create.twu.ca/bonnie"/>
+            <outline type="rss" text="Riggi Solinap » Feed" title="Riggi Solinap » Feed" xmlUrl="https://create.twu.ca/riggisolinap/feed/" htmlUrl="https://create.twu.ca/riggisolinap"/>
+            <outline type="rss" text="Ruth Leong » Comments Feed" title="Ruth Leong » Comments Feed" xmlUrl="https://create.twu.ca/ruthleong/comments/feed/" htmlUrl="https://create.twu.ca/ruthleong"/>
+            <outline type="rss" text="|Bonnie| » Comments Feed" title="|Bonnie| » Comments Feed" xmlUrl="https://create.twu.ca/bonnie/comments/feed/" htmlUrl="https://create.twu.ca/bonnie"/>
+            <outline type="rss" text="Rob Tegelberg » Feed" title="Rob Tegelberg » Feed" xmlUrl="https://create.twu.ca/robtegelberg/feed/" htmlUrl="https://create.twu.ca/robtegelberg"/>
+            <outline type="rss" text="mrwilliamsphysed.wordpress.com/comments/feed" title="mrwilliamsphysed.wordpress.com/comments/feed" xmlUrl="https://mrwilliamsphysed.wordpress.com/comments/feed/"/>
+            <outline type="rss" text="Maven Build Design » Feed" title="Maven Build Design » Feed" xmlUrl="https://create.twu.ca/mavenbuilddesign/feed/" htmlUrl="https://create.twu.ca/mavenbuilddesign"/>
+            <outline type="rss" text="Leadership Prof » Feed" title="Leadership Prof » Feed" xmlUrl="https://create.twu.ca/leadershipprof/feed/" htmlUrl="https://create.twu.ca/leadershipprof"/>
+            <outline type="rss" text="Riggi Solinap &gt; Comments" title="Riggi Solinap &gt; Comments" xmlUrl="https://create.twu.ca/riggisolinap/comments/feed/" htmlUrl="https://create.twu.ca/riggisolinap"/>
+            <outline type="rss" text="Simarjit Shergill » Comments Feed" title="Simarjit Shergill » Comments Feed" xmlUrl="https://create.twu.ca/icandothis/comments/feed/" htmlUrl="https://create.twu.ca/icandothis"/>
+            <outline type="rss" text="Ruth Leong » Feed" title="Ruth Leong » Feed" xmlUrl="https://create.twu.ca/ruthleong/feed/" htmlUrl="https://create.twu.ca/ruthleong"/>
+            <outline type="rss" text="Simarjit Shergill » Feed" title="Simarjit Shergill » Feed" xmlUrl="https://create.twu.ca/icandothis/feed/" htmlUrl="https://create.twu.ca/icandothis"/>
+            <outline type="rss" text="Rob Tegelberg &gt; Comments" title="Rob Tegelberg &gt; Comments" xmlUrl="https://create.twu.ca/robtegelberg/comments/feed/" htmlUrl="https://create.twu.ca/robtegelberg"/>
+            <outline type="rss" text="Leadership Prof » Comments Feed" title="Leadership Prof » Comments Feed" xmlUrl="https://create.twu.ca/leadershipprof/comments/feed/" htmlUrl="https://create.twu.ca/leadershipprof"/>
+            <outline type="rss" text="Maven Build Design » Comments Feed" title="Maven Build Design » Comments Feed" xmlUrl="https://create.twu.ca/mavenbuilddesign/comments/feed/" htmlUrl="https://create.twu.ca/mavenbuilddesign"/>
+        </outline>
+    </body>
+</opml>
