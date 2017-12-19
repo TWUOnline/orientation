@@ -12,7 +12,9 @@ Keep in mind that if the site that you are using is 'free', then the site and it
 
 ##### Tracking the Trackers
 
-\[ted id=1436 lang=en\]
+Here is another video for you to consider.
+
+[https://www.ted.com/talks/gary\_kovacs\_tracking\_the\_trackers](https://www.ted.com/talks/gary_kovacs_tracking_the_trackers)
 
 For this activity, you will need to be using Mozilla's Firefox web browser. [You can download and install Firefox here.](https://www.mozilla.org/en-US/firefox/new/?scene=2)
 
@@ -52,5 +54,11 @@ Create a new post on your blog and write a little bit about what you noticed usi
 * how many of the trackers came from sites that you did not visit?
 * how long does your normal browser keep cookies from third parties?
 
-Use the categories 'Tracking' and 'TWU Online' in your post.
+Categories for this post:
+
+* TWU Online
+* Digital Literacy
+* Tracking
+
+
 
