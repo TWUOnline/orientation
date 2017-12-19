@@ -10,7 +10,7 @@ We do hope that you will learn to narrate your process as you work through your 
 
 Now, that may sound like an odd request, but it is rooted in sound andragogy[^1]. You could think about narrating your process as reflecting on your work in a format that allows your colleagues and instructors to learn from you and for you to learn from them as well.
 
-Narrating your process isn't about being correct. It is about expecting to be wrong about some things and working towards a more correct understanding. It is about helping your colleagues as you all work towards a more correct understanding.
+Narrating your process isn't about being correct. It is about expecting to be wrong about some things and working towards a more correct understanding. It is about helping your colleagues as you all work towards a more correct understanding. It is about making the extremely difficult process of changing your mind visible to yourself \(and others, if you choose to do so\).
 
 ##### Getting Started
 
@@ -32,7 +32,11 @@ Once you have drafted a structure \(it will change over time\), start building a
 
 Finally, for this activity, please create a new post that describes the choices you made while creating the structure for your site. What challenges did you encounter? How did you work through the challenges? What would you do next time? You can read my posts in response to a similar activity [here](http://merelearning.ca/reflecting/structuring-my-show/) and [here](http://merelearning.ca/reflecting/refining-the-structure/).
 
-Make sure to add your post to the categories 'TWU Online' and 'Narrating U' before you publish!
+##### Categories for this post:
+
+* TWU Online
+* Digital Skills
+* Narrating U
 
 [^1]: [Andragogy](https://en.wikipedia.org/wiki/Andragogy) is the application of learning principles to adult education.
 
