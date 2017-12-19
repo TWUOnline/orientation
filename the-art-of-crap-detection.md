@@ -12,7 +12,13 @@ How would you proceed? Does the email seem legitimate? The Center for Disease Co
 
 Does the email seem sketchy? Why or why not?
 
-Create a new blog post to write about what artifacts in the email cause you to trust, or mistrust it. Use the categories 'TWU Online' and 'bananas'.
+Create a new blog post to write about what artifacts in the email cause you to trust, or mistrust it. 
+
+##### Categories for this post:
+
+* TWU Online
+* bananas
+* Digital Literacy
 
 ##### Web Literacy for Student Fact-Checkers
 

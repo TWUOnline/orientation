@@ -30,5 +30,7 @@ Once you have installed Audacity and created a new project, you will need to ins
 
 Alan Levine ([@cogdog](https://twitter.com/cogdog) from The You Show) has created a couple of video tutorials on how to get started with creating and editing audio using Audacity. You can find a [14 min screencast here](https://www.youtube.com/watch?v=gXfVKSx7WtY), or a [40 minute presentation recording here](https://www.youtube.com/watch?v=cTw9ZwL0CTA).
 
+Practice recording and exporting audio with Audacity, then, when you are ready, try the 'Sound Effects Story'.
+
 #####A note about GarageBand
 If you are using a Mac computer, you likely have access to GarageBand, which will work quite nicely for these activities, but we will focus these instructions on Audacity.
