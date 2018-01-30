@@ -43,7 +43,7 @@ Once you have worked through the basics of the dashboard, take some time to choo
 
 ##### Set up a 'Category' for this course
 
-Watch both videos in the [Organizing Content with Taxonomies](http://umwdtlt.com/wordpress-basics/#organizing-content-with-taxonomies) category on the UMW DTLT site, and then create a category called 'TWU Online' on your site. If you are reading this page in the context of a different course, you will likely be directed to create a taxonomy of categories specific to that course.
+Watch the video [Organizing Content - Posts, Pages, Categories and Tags](https://wordpress.tv/2017/09/26/al-davis-organizing-your-content-pages-posts-categories-and-tags/), and then create a category called 'TWU Online' on your site. If you are reading this page in the context of a different course, you will likely be directed to create a taxonomy of categories specific to that course.
 
 ##### Tell us the URL for your RSS feed
 
