@@ -15,7 +15,7 @@ Your first activity in this course will be to set up your own WordPress site whi
 
 The Learning Management System \(LMS\) that TWU uses is called Moodle, and it is accessible at https://learn.twu.ca. You need a TWU Pass account to sign in. Most courses at TWU have a component that is run through Moodle. 
 
-For assistance using Moodle, please see our KnowledgeBase articles [here](https://trinitywestern.teamdynamix.com/TDClient/KB/?CategoryID=4592).
+For assistance using Moodle, please see our KnowledgeBase articles [here](https://twonline.gitbooks.io/moodlefaq/content/).
 
 
 
