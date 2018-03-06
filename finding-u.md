@@ -16,5 +16,11 @@ Before you begin, you should log out of all of your social media accounts as you
   * Do you ever self-censor online? If so, which sites?
   * Have you ever actively removed content because of concerns about how it relected on your digitial identity? Why?
 
-Before you publish, make sure that you categorize your post under 'TWU Online' and 'Finding U'.
+##### Categories for this post:
+
+* TWU Online
+* Digital Literacy
+* Finding U
+
+
 

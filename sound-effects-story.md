@@ -43,4 +43,7 @@ You get an embedded SoundCloud player like at the bottom of this post.
 
 Once you have uploaded your audio to SoundCloud, create a new post with your story embedded and tell us about the process you went through to create the story. Where did you find the audio files? What challenges did you have to work through? what would you do differently next time?
 
-Use the categories 'TWU Online' and 'Sound Effect Story'.
+#####Categories for this post:
+* TWU Online
+* Digital Literacy
+* Sound Effect Story'.

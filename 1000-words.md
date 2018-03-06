@@ -64,7 +64,14 @@ Here is what to seek in your own photo safari!
 3. Take another photo of a timepiece that shows the time you stopped. It should be fifteen minutes since step 1, right?
 4. Write a blog post about your experience and include all of your photos \(if using WordPress, see
    [how to make a Gallery in your post](http://codex.wordpress.org/The_WordPress_Gallery)\). Describe the place you chose to do this, and why you chose it. What was the experience like? What photos worked for you best? What do you think was the most inventive?
-5. Categorize your post as 'TWU Online' and 'Photosafari' so we can aggregate them.
+
+#####Categories for this post:
+
+* TWU Online
+* Digital Literacy
+* Photosafari
+
+---
 
 [^1] These activities are adapted from an open course called [YouShow](http://youshow.trubox.ca/about/schedule/unit-2/) offered at Thompson Rivers University in 2015. They are used here under the original [Creative Commons Attribution License](http://creativecommons.org/licenses/by/4.0/). The original activity was devised in a dark basement by [@cogdog](https://twitter.com/cogdog) and [@brlamb](https://twitter.com/brlamb).
 

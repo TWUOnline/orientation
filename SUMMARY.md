@@ -23,4 +23,5 @@
 * [DigPed Notes](digped-notes.md)
 * [License](license.md)
 * [Curating U](curating-u.md)
+* [Connecting](connecting.md)
 

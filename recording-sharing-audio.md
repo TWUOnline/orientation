@@ -8,7 +8,7 @@ We will recommend that you sign up for some different web services in order to h
 
 ##### anchor.fm
 
-[Anchor.fm](https://anchor.fm) is a free smartphone app for either iOS or Android \(you can also upload from your computer\) that allows users to quickly and easily record, upload, and share audio files. Keep in mind that 'ease-of-use' often means 'limited options', and this is certianly the case with anchor.fm. There is very little that you can do to edit your recordings after the fact, so you may have to record multiple times.
+[Anchor.fm](https://anchor.fm) is a free smartphone app for either iOS or Android \(you can also upload from your computer\) that allows users to quickly and easily record, upload, and share audio files. Keep in mind that 'ease-of-use' often means 'limited options', and this is certainly the case with anchor.fm. There is very little that you can do to edit your recordings after the fact, so you may have to record multiple times.
 
 Take a few minutes to download the app, or go to the site on your computer, and listen to some of the recordings that are posted there, then record a clip or two yourself.
 
@@ -18,11 +18,20 @@ Take a few minutes to download the app, or go to the site on your computer, and 
 
 Create an account at Soundcloud and record or upload a clip.
 
+##### TapeWrite
+[TapeWrite.com](https://tapewrite.com/tapes/top) is yet another free-with-pro-options. I haven't actually used TapeWrite, but it looks interesting and I'd love to hear what you think.
+
 ##### Sharing Audio
 
-Once you have created and uploaded audio clips in anchor.fm and SoundCloud share them in a new post on your blog under the category 'audio' and 'TWU Online'.
+Once you have created and uploaded audio clips in anchor.fm and SoundCloud share them in a new post on your blog and include some thoughts on the process. Was the app easy to use? Are you satisfied with the recording? What might you do differently next time? Was it easy to share from the app into your blog? Did you discover how to embed SoundCloud files?
 
-In your post, include some thoughts on the process. Was the app easy to use? Are you satisfied with the recording? What might you do differently next time? Was it easy to share from the app into your blog? Did you discover how to embed SoundCloud files?
+#####Categories for this post:
+* TWU Online
+* Digital Literacy
+* Recording Audio
 
+
+
+---
 [^1] These activities are adapted from [The YouShow](http://youshow.trubox.ca/about/schedule/unit-4-part-1/) and used here under the original [Creative Commons Attribution license](http://creativecommons.org/licenses/by/4.0/) with thanks to [@cogdog](https://twitter.com/cogdog) and [@brlamb](https://twitter.com/brlamb).
 

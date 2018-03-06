@@ -10,7 +10,7 @@ If you need assistance with Moodle, please see our [Knowledge Base articles here
 
 ##### Course Hub
 
-The page that you are reading right now is hosted on a website in our digital learning environment in a tool called WordPress. This website is the _course hub_. You will come here for updates from your instructor, to find out what your learning activities and assessments will be for the course, and also to read what your colleagues are writing in response to the prompts in the course. You might want to bookmark this page, as you will come here often.
+The page that you are reading right now is hosted on a website in our digital learning environment in a tool called WordPress. This website is the _course hub_. You will come here for updates from your instructor, to find out what your learning activities and assessments will be for the course, and also to read what your colleagues are writing in response to the prompts in the course. You might want to bookmark the course hub page, as you will visit there often.
 
 The course hub is open and available to the general public and some of your work will be seen here, so please be careful what you post.
 
