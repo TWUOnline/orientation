@@ -45,6 +45,8 @@ Once you have worked through the basics of the dashboard, take some time to choo
 
 Watch the video [Organizing Content - Posts, Pages, Categories and Tags](https://wordpress.tv/2017/09/26/al-davis-organizing-your-content-pages-posts-categories-and-tags/), and then create a category called 'TWU Online' on your site. If you are reading this page in the context of a different course, you will likely be directed to create a taxonomy of categories specific to that course.
 
+It is very important to understand that the category that you create will be used to syndicate your posts to the course hub. You will use a different category for each post in every course. For example, in this orientation course, you will add the category 'TWU Online' to every post, but for Leadership 500, you will use 'LDRS500'.
+
 ##### Tell us the URL for your RSS feed
 
 The final setup task for you is to tell us the URL for your RSS feed so that your posts will show up on the [course hub](https://create.twu.ca/orientation). You posts will be syndicated from your site to the course hub through RSS, or Really Simple Syndication. The course hub will be subscribed to your 'TWU Online' category feed. Any time you post in that category, your post will show up in the feed on the course hub. The same will be true for all other participants in the course, so you only need to check one spot to be able to see what everyone is writing about.
