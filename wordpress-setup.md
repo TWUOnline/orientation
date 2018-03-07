@@ -37,7 +37,7 @@ TWU will be able to provide some support if you choose this option.
 
 Once you have access to a WordPress blog, it's time to get things set up.
 
-The University of Mary Washington has published an excellent set of resources for customizing WordPress. To begin, view the videos covering the [WordPress dashboard](http://umwdtlt.com/wordpress-basics/#the-dashboard). Feel free to follow along on your own site and toggle back and forth between your own site and the video.
+The University of Mary Washington has published an excellent set of resources for customizing WordPress. To begin, view the videos covering the [WordPress dashboard](http://umw.domains/wordpress-basics/#dashboard). Feel free to follow along on your own site and toggle back and forth between your own site and the video.
 
 Once you have worked through the basics of the dashboard, take some time to choose a theme you like. You will have different options depending on where your site is hosted.
 
@@ -59,4 +59,3 @@ Before you register, you will need to have completed the following tasks on your
 ##### Blog
 
 Once you have told us your RSS feed, create your first post and introduce yourself to others taking this course. Tell us a little bit about yourself, or tell us about your pets, or something else. Remember to be aware that your posts are public on the web, but that you can determine levels of privacy that make sense for you. Make sure that you add your post to the category ''TWU Online' and a new category called 'Hi'.
-
