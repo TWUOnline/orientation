@@ -24,7 +24,7 @@ Throughout this orientation, you will begin to practice building a deliberate di
 
 As you know by now, your work for this course, and also for the MA Leadership, will be open on the web. If you have concerns about your privacy, you may have signed up for your blog under a pseudonym, or maybe you plan to take other steps to protect your identity. But, regardless of how you choose to portray yourself online, your posts themselves should exhibit characteristics of academic thought.
 
-Biggs and Colis (1982) describe the SOLO Taxonomy as a way to conceptualize the quality of academic work. They describe five levels of increasingly complex responses:
+Biggs and Collis (1982) describe the SOLO Taxonomy as a way to conceptualize the quality of academic work. They describe five levels of increasingly complex responses:
 - pre-structural
   - the student response completely misses the point of the question or task
 - uni-structural
@@ -36,4 +36,10 @@ Biggs and Colis (1982) describe the SOLO Taxonomy as a way to conceptualize the 
 - extended abstract
   - student responses show the same characteristics as relational responses but they are further connected to new topics or concepts.
 
-<a title="By Doug Belshaw (Own work) [CC0], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AStructure_of_Observed_Learning_Outcomes_(SOLO)_Taxonomy.png"><img width="512" alt="Structure of Observed Learning Outcomes (SOLO) Taxonomy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Structure_of_Observed_Learning_Outcomes_%28SOLO%29_Taxonomy.png/512px-Structure_of_Observed_Learning_Outcomes_%28SOLO%29_Taxonomy.png"/></a>
+<a title="By Doug Belshaw (Own work) [CC0], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AStructure_of_Observed_Learning_Outcomes_(SOLO)Taxonomy.png"><img width="512" alt="Structure of Observed Learning Outcomes (SOLO) Taxonomy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Structure_of_Observed_Learning_Outcomes_%28SOLO%29_Taxonomy.png/512px-Structure_of_Observed_Learning_Outcomes_%28SOLO%29_Taxonomy.png"/>SOLO Taxonomy By Doug Belshaw (Own work) [CC0], via Wikimedia Commons</a>
+
+In general, all of your academic work should be reflective of either relational or extended abstract levels of the SOLO Taxonomy. At minimum, you should be relating multiple ideas to each other in your post. The concepts that you describe can be your own new ideas compared to how you used to think and how you have changed, or you can contrast ideas from your readings with those of your classmates and your own previous misconceptions. Better than that, however, is extending your ideas to unrelated concepts. One way to do this is to apply your new learning to a problem or challenge in your own personal or professional context.
+
+
+### References
+Biggs, J. B. and Collis, K. (1982) Evaluating the Quality of Learning: the SOLO taxonomy. New York, Academic Press
