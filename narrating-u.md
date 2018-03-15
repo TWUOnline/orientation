@@ -8,7 +8,7 @@ At regular points in each course, you will be asked to respond to specific quest
 
 We do hope that you will learn to narrate your process as you work through your program.
 
-Now, that may sound like an odd request, but it is rooted in sound andragogy[footnote][Andragogy](https://en.wikipedia.org/wiki/Andragogy) is the application of learning principles to adult education.[/footnote]. You could think about narrating your process as reflecting on your work in a format that allows your colleagues and instructors to learn from you and for you to learn from them as well.
+Now, that may sound like an odd request, but it is rooted in sound andragogy [footnote][Andragogy](https://en.wikipedia.org/wiki/Andragogy) is the application of learning principles to adult education.[/footnote]. You could think about narrating your process as reflecting on your work in a format that allows your colleagues and instructors to learn from you and for you to learn from them as well.
 
 Narrating your process isn't about being correct. It is about expecting to be wrong about some things and working towards a more correct understanding. It is about helping your colleagues as you all work towards a more correct understanding. It is about making the extremely difficult process of changing your mind visible to yourself \(and others, if you choose to do so\).
 
