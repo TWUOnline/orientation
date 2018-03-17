@@ -1,0 +1,26 @@
+---
+ID: 419
+post_title: Sunny day in White Rock
+author: Simarjit
+post_excerpt: 'I decided to convert my weekend morning walk into Photo Safari . I could not take a specific picture to demonstrate start or finish time , it was in the morning around 9 am . My walking route typically takes me down a steep hill to White Rock beach, and then back up. The walk [&hellip;]'
+layout: post
+permalink: >
+  https://create.twu.ca/orientation/sunny-day-in-white-rock/
+published: true
+post_date: 2017-09-23 16:32:58
+---
+<p>I decided to convert my weekend morning walk into Photo Safari . I could not take a specific picture to demonstrate start or finish time , it was in the morning around 9 am . My walking route typically takes me down a steep hill to White Rock beach, and then back up. The walk itself is an exhilarating experience, one because I get to do it only the weekends, and second because it takes me through this changing landscape d own to the sea . My words cant do it justice.</p>
+<p>Today was especially enlightening, because I wasn&#8217;t just a casual observer but was a photographer ! I was looking at the usual things in a different perspective</p>
+<p><img class="alignnone size-medium wp-image-29 aligncenter" src="http://create.twu.ca/icandothis/files/2017/09/IMG_2549-300x225.jpg" alt="" width="300" height="225" srcset="https://create.twu.ca/icandothis/files/2017/09/IMG_2549-300x225.jpg 300w, https://create.twu.ca/icandothis/files/2017/09/IMG_2549-768x576.jpg 768w, https://create.twu.ca/icandothis/files/2017/09/IMG_2549-1024x768.jpg 1024w, https://create.twu.ca/icandothis/files/2017/09/IMG_2549-676x507.jpg 676w" sizes="(max-width: 300px) 100vw, 300px" /> Interesting ..never seen this before. Don&#8217;t know what it means</p>
+<p><img class="alignnone size-medium wp-image-30 aligncenter" src="http://create.twu.ca/icandothis/files/2017/09/IMG_2547-300x225.jpg" alt="" width="300" height="225" srcset="https://create.twu.ca/icandothis/files/2017/09/IMG_2547-300x225.jpg 300w, https://create.twu.ca/icandothis/files/2017/09/IMG_2547-768x576.jpg 768w, https://create.twu.ca/icandothis/files/2017/09/IMG_2547-1024x768.jpg 1024w, https://create.twu.ca/icandothis/files/2017/09/IMG_2547-676x507.jpg 676w" sizes="(max-width: 300px) 100vw, 300px" /> This definitely does not belong here..</p>
+<p><img class="alignnone size-medium wp-image-31 aligncenter" src="http://create.twu.ca/icandothis/files/2017/09/IMG_2556-300x225.jpg" alt="" width="300" height="225" srcset="https://create.twu.ca/icandothis/files/2017/09/IMG_2556-300x225.jpg 300w, https://create.twu.ca/icandothis/files/2017/09/IMG_2556-768x576.jpg 768w, https://create.twu.ca/icandothis/files/2017/09/IMG_2556-1024x768.jpg 1024w, https://create.twu.ca/icandothis/files/2017/09/IMG_2556-676x507.jpg 676w" sizes="(max-width: 300px) 100vw, 300px" /> <img class="alignnone size-medium wp-image-32 aligncenter" src="http://create.twu.ca/icandothis/files/2017/09/IMG_2554-300x225.jpg" alt="" width="300" height="225" srcset="https://create.twu.ca/icandothis/files/2017/09/IMG_2554-300x225.jpg 300w, https://create.twu.ca/icandothis/files/2017/09/IMG_2554-768x576.jpg 768w, https://create.twu.ca/icandothis/files/2017/09/IMG_2554-1024x768.jpg 1024w, https://create.twu.ca/icandothis/files/2017/09/IMG_2554-676x507.jpg 676w" sizes="(max-width: 300px) 100vw, 300px" /> Converging lines .. undulating lines &#8230;<img class="alignnone size-medium wp-image-34 aligncenter" src="http://create.twu.ca/icandothis/files/2017/09/IMG_2552-300x225.jpg" alt="" width="300" height="225" srcset="https://create.twu.ca/icandothis/files/2017/09/IMG_2552-300x225.jpg 300w, https://create.twu.ca/icandothis/files/2017/09/IMG_2552-768x576.jpg 768w, https://create.twu.ca/icandothis/files/2017/09/IMG_2552-1024x768.jpg 1024w, https://create.twu.ca/icandothis/files/2017/09/IMG_2552-676x507.jpg 676w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>Interesting.. how does a tree become this ?</p>
+<p><img class="alignnone size-medium wp-image-36" src="http://create.twu.ca/icandothis/files/2017/09/IMG_2566-1-300x225.jpg" alt="" width="300" height="225" srcset="https://create.twu.ca/icandothis/files/2017/09/IMG_2566-1-300x225.jpg 300w, https://create.twu.ca/icandothis/files/2017/09/IMG_2566-1-768x576.jpg 768w, https://create.twu.ca/icandothis/files/2017/09/IMG_2566-1-1024x768.jpg 1024w, https://create.twu.ca/icandothis/files/2017/09/IMG_2566-1-676x507.jpg 676w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>My dog&#8217;s freshly roomed paw <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>&nbsp;</p>
+<p>Issues I had with this activity &#8211; I was trying to copy a folder , did not happen.  I learnt that you can only copy them one by one</p>
+<p>For the life of my I cannot understand why all my photos are displayed sideways!! All my attempts to make them upright went waste.  I apologise for the &#8216; pain in the neck &#8216;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
