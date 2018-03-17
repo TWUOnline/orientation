@@ -33,7 +33,13 @@ You can register for your own hosting package from a web host. We highly recomme
 
 TWU will be able to provide some support if you choose this option.
 
-##### How to get Started
+##### Please scroll to the bottom of this page and click the green 'Sign Up' button to register for a site.
+
+You will receive an email from WordPress to confirm your registration, but this email often gets caught by spam filters, so please check your spam/junk folder.
+
+If the email hasn't arrived within 5-10 minutes, please contact colin.madland[at]twu.ca.
+
+##### How to set up your blog.
 
 Once you have access to a WordPress blog, it's time to get things set up.
 
@@ -53,11 +59,12 @@ The final setup task for you is to tell us the URL for your RSS feed so that you
 
 When you click on the link to a post on the course hub, you will be taken to the site where the post was originally published.
 
-Before you register, you will need to have completed the following tasks on your own site:
+Before you fill in the form at the bottom of this page, you will need to have completed the following tasks on your own site:
 
-* create a site on your own URL,
-* create a category called 'TWU Online' and copy the slug to your clipboard.
+* create a site on your own URL (this was done when you registered for a site),
+* create a category on your site called 'TWU Online' and copy the slug to your clipboard.
+  - you can see the slug by hovering over 'Posts' in your dashboard and choosing 'Categories'. The slug will be displayed in the list of categories.
 
-##### Blog
+##### Create a Post on your Blog
 
 Once you have told us your RSS feed, create your first post and introduce yourself to others taking this course. Tell us a little bit about yourself, or tell us about your pets, or something else. Remember to be aware that your posts are public on the web, but that you can determine levels of privacy that make sense for you. Make sure that you add your post to the category ''TWU Online' and a new category called 'Hi'.
