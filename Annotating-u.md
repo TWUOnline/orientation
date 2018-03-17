@@ -14,7 +14,7 @@ Hypothes.is is a very light-weight web service and browser extension that you ca
   - click the arrow to open the hypothes.is overlay  
 ![Hypothesis Launch](https://github.com/orientation/assets/hypothesis-1.png)
   - sign in to your account  
-![Hypothesis Launch](https://github.com/orientation/assets/hypothesis-1.png)
+![Hypothesis Sign-in](https://github.com/orientation/assets/hypothesis-1.png)
 5. Read some of the public annotations that are already there and add your own thoughts.
 6. Use the tag 'twulearns' in your annotations so that we can easily filter our own annotations.
 7. Create a new post on your blog and write about this activity in light of your own teaching practice.
