@@ -11,6 +11,9 @@ Hypothes.is is a very light-weight web service and browser extension that you ca
 2. Install the Chrome add-on or, if you use a different browser, drag the bookmarklet to your bookmarks bar.
 3. Go to the [2016 Manifesto for Teaching Online](https://onlineteachingmanifesto.wordpress.com/the-text/) created by online educators at the University of Edinburgh.
 4. Launch hypothes.is in your browser and scroll down to the text of the manifesto (below the video).
+  - click the arrow to open the hypothes.is overlay
+  
+  - sign in to your account
 5. Read some of the public annotations that are already there and add your own thoughts.
 6. Use the tag 'twulearns' in your annotations so that we can easily filter our own annotations.
 7. Create a new post on your blog and write about this activity in light of your own teaching practice.
