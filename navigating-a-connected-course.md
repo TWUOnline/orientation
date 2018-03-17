@@ -20,4 +20,4 @@ Each participant in the course will have control over their own personal website
 
 In order to participate in the course, you must submit the URL for your site to your instructor. Your instructor will then connect your site with the course hub through RSS \(Really Simple Syndication\). Once your site is connected through RSS, your posts on your own site will be syndicated and show up on the course hub.
 
-The first activity in this course [WordPress Set Up](https://create.twu.ca/orientation/wordpress-setup) will lead you through the process of creating and beginning to set up your site and your RSS feed.
+The first activity in this course, [WordPress Set Up](https://create.twu.ca/orientation/digital-skills/wordpress-set-up/) will lead you through the process of creating and beginning to set up your site and your RSS feed.
