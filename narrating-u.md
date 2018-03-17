@@ -18,9 +18,10 @@ For this activity, you will need to start thinking through a structure for your 
 
 First, view the following videos on the UMW DTLT site:
 
-* [Pages vs. Posts](http://umwdtlt.com/wordpress-basics/#adding-new-posts-and-pages) \(scroll down a little for the video\).
-* Both videos in the [Organizing Content with Taxonomies](http://umwdtlt.com/wordpress-basics/#organizing-content-with-taxonomies) category.
-* [Menus](http://umwdtlt.com/wordpress-basics/#changing-the-appearance) in the 'Changing the Appearance' category \(the last video in the category\).
+* [Pages vs. Posts](http://umw.domains/wordpress-basics/#posts) \(scroll down a little for the video\).
+* [Menus](http://umw.domains/wordpress-basics/#menu) in the 'Changing the Appearance' category \(the last video in the category\).
+
+Then refer to the WordPress documentation page [First Steps With WordPress](https://codex.wordpress.org/First_Steps_With_WordPress#Setting_Up_Your_Site) and read about creating categories.
 
 Next, start building a structure in your site. We recommend that you build the structure using the two taxonomies built into WordPress, categories and tags. Some people choose to organize their content with pages and sub-pages, but this strategy can quickly get unmanageable as you have less flexibility with pages. Pages are meant to be static.
 
