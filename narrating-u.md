@@ -19,7 +19,7 @@ For this activity, you will need to start thinking through a structure for your 
 First, view the following videos on the UMW DTLT site:
 
 * [Pages vs. Posts](http://umw.domains/wordpress-basics/#posts)
-* [Menus](http://umw.domains/wordpress-basics/#menu) in the 'Changing the Appearance' category \(the last video in the category\)
+* [Menus](http://umw.domains/wordpress-basics/#menu) 
 
 Then refer to the WordPress documentation page [First Steps With WordPress](https://codex.wordpress.org/First_Steps_With_WordPress#Setting_Up_Your_Site) and read about creating categories.
 
