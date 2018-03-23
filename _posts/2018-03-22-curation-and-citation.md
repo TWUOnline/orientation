@@ -9,10 +9,7 @@ permalink: >
 published: true
 post_date: 2018-03-22 15:01:59
 ---
-On the digital literacy spectrum there is much to learn and assimilate. None of which are really done with ease at the outset. Once the tools are added and part of the daily digest of material, the benefit can be exponential to all engaged.
-
-I have just meandered through the digital skills materials and added Feedly to my faves, with connections to many readables including the orientation posts and responses.
-
-Easier than what I am accustomed to? The jury is out.
-
-Hoping for the best digital future possible in this newer environment.
+<p>On the digital literacy spectrum there is much to learn and assimilate. None of which are really done with ease at the outset. Once the tools are added and part of the daily digest of material, the benefit can be exponential to all engaged.</p>
+<p>I have just meandered through the digital skills materials and added Feedly to my faves, with connections to many readables including the orientation posts and responses.</p>
+<p>Easier than what I am accustomed to? The jury is out.</p>
+<p>Hoping for the best digital future possible in this newer environment.</p>
