@@ -43,6 +43,6 @@ The first section will help you develop some _digital skills_ required for you t
 
 The second section covers the idea of _digital literacy_, which is
 
-> the set of competencies required for full participation in a knowledge society. It includes knowledge, skills, and behaviors involving the effective use of digital devices such as smartphones, tablets, laptops and desktop PCs for purposes of communication, expression, collaboration and advocacy. [[SOURCE](https://en.wikipedia.org/wiki/Digital_literacy)]
+&gt; the set of competencies required for full participation in a knowledge society. It includes knowledge, skills, and behaviors involving the effective use of digital devices such as smartphones, tablets, laptops and desktop PCs for purposes of communication, expression, collaboration and advocacy. [[SOURCE](https://en.wikipedia.org/wiki/Digital_literacy)]
 
 Becoming more digitally literate will help you to communicate ethically and effectively in TWU's digital learning environment as well as in your personal and professional life outside of the university.
