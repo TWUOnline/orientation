@@ -1,7 +1,13 @@
 ---
-post_title: 'Course Overview'
+ID: 1509
+post_title: Course Overview
+author: Colin Madland
+post_excerpt: ""
 layout: page
+permalink: >
+  https://create.twu.ca/orientation/course-overview/
 published: true
+post_date: 2018-04-03 14:13:17
 ---
 Welcome to the online learning orientation course for Trinity Western University.
 
@@ -21,13 +27,13 @@ Knowing this, we need to prepare you to be able to protect yourself, especially 
 
 Learners will be able to:
 
-1. Apply advanced search strategies to identify and select relevant open access resources to support learning.\*
+1. Apply advanced search strategies to identify and select relevant open access resources to support learning.*
 2. Create digital media in various formats.
-3. Apply digital communication and collaboration tools effectively in a higher education context. \*
-4. Develop a positive digital online identity in support of learning commensurate with good practice for privacy, security and interpersonal communications.\*
-5. Demonstrate how to participate legally and ethically in an online digital learning community.\*
+3. Apply digital communication and collaboration tools effectively in a higher education context. *
+4. Develop a positive digital online identity in support of learning commensurate with good practice for privacy, security and interpersonal communications.*
+5. Demonstrate how to participate legally and ethically in an online digital learning community.*
 
-\*These outcomes were originally published for the course 'Learning in a digital age' by OERu and are reproduced here under a Creative Commons Attribution 4.0 International License
+*These outcomes were originally published for the course 'Learning in a digital age' by OERu and are reproduced here under a Creative Commons Attribution 4.0 International License
 
 ##### Course Structure
 
@@ -37,6 +43,6 @@ The first section will help you develop some _digital skills_ required for you t
 
 The second section covers the idea of _digital literacy_, which is
 
-> the set of competencies required for full participation in a knowledge society. It includes knowledge, skills, and behaviors involving the effective use of digital devices such as smartphones, tablets, laptops and desktop PCs for purposes of communication, expression, collaboration and advocacy. \[[SOURCE](https://en.wikipedia.org/wiki/Digital_literacy)\]
+> the set of competencies required for full participation in a knowledge society. It includes knowledge, skills, and behaviors involving the effective use of digital devices such as smartphones, tablets, laptops and desktop PCs for purposes of communication, expression, collaboration and advocacy. [[SOURCE](https://en.wikipedia.org/wiki/Digital_literacy)]
 
 Becoming more digitally literate will help you to communicate ethically and effectively in TWU's digital learning environment as well as in your personal and professional life outside of the university.
