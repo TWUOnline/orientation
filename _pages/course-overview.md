@@ -23,30 +23,26 @@ We will provide you with multiple opportunities to think about the impact of dig
 
 Knowing this, we need to prepare you to be able to protect yourself, especially if you are in a vulnerable community, or to protect those around you who are more vulnerable than you.
 
-<h5>Outcomes</h5>
+##### Outcomes
 
 Learners will be able to:
 
-<ol>
-<li>Apply advanced search strategies to identify and select relevant open access resources to support learning.*</li>
-<li>Create digital media in various formats.</li>
-<li>Apply digital communication and collaboration tools effectively in a higher education context. *</li>
-<li>Develop a positive digital online identity in support of learning commensurate with good practice for privacy, security and interpersonal communications.*</li>
-<li>Demonstrate how to participate legally and ethically in an online digital learning community.*</li>
-</ol>
+1. Apply advanced search strategies to identify and select relevant open access resources to support learning.*
+2. Create digital media in various formats.
+3. Apply digital communication and collaboration tools effectively in a higher education context. *
+4. Develop a positive digital online identity in support of learning commensurate with good practice for privacy, security and interpersonal communications.*
+5. Demonstrate how to participate legally and ethically in an online digital learning community.*
 
 *These outcomes were originally published for the course 'Learning in a digital age' by OERu and are reproduced here under a Creative Commons Attribution 4.0 International License
 
-<h5>Course Structure</h5>
+##### Course Structure
 
 This short course is divided into two sections. Your program or instructor may have a third section that covers program specific details.
 
-The first section will help you develop some <em>digital skills</em> required for you to participate easily and efficiently in various digital environments. You will learn how to create and maintain your own website in WordPress and how to use WordPress to interact with your colleagues and instructor on the web.
+The first section will help you develop some _digital skills_ required for you to participate easily and efficiently in various digital environments. You will learn how to create and maintain your own website in WordPress and how to use WordPress to interact with your colleagues and instructor on the web.
 
-The second section covers the idea of <em>digital literacy</em>, which is
+The second section covers the idea of _digital literacy_, which is
 
-<blockquote>
-  the set of competencies required for full participation in a knowledge society. It includes knowledge, skills, and behaviors involving the effective use of digital devices such as smartphones, tablets, laptops and desktop PCs for purposes of communication, expression, collaboration and advocacy. [<a href="https://en.wikipedia.org/wiki/Digital_literacy">SOURCE</a>]
-</blockquote>
+> the set of competencies required for full participation in a knowledge society. It includes knowledge, skills, and behaviors involving the effective use of digital devices such as smartphones, tablets, laptops and desktop PCs for purposes of communication, expression, collaboration and advocacy. [[SOURCE](https://en.wikipedia.org/wiki/Digital_literacy)]
 
 Becoming more digitally literate will help you to communicate ethically and effectively in TWU's digital learning environment as well as in your personal and professional life outside of the university.
