@@ -1,3 +1,8 @@
+---
+post_title: 'Course Overview'
+layout: page
+published: true
+---
 Welcome to the online learning orientation course for Trinity Western University.
 
 Online and digital learning environments are excellent ways for students who may not be able to access on-campus programs to participate in higher education while not having to move or disrupt their career. At Trinity Western, beginning with the MA Leadership, we are working towards providing an engaging and effective online learning environment for remote students.
@@ -35,4 +40,3 @@ The second section covers the idea of _digital literacy_, which is
 > the set of competencies required for full participation in a knowledge society. It includes knowledge, skills, and behaviors involving the effective use of digital devices such as smartphones, tablets, laptops and desktop PCs for purposes of communication, expression, collaboration and advocacy. \[[SOURCE](https://en.wikipedia.org/wiki/Digital_literacy)\]
 
 Becoming more digitally literate will help you to communicate ethically and effectively in TWU's digital learning environment as well as in your personal and professional life outside of the university.
-
