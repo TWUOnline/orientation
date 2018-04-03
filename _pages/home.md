@@ -16,6 +16,12 @@ post_date: 2017-05-25 15:23:24
  <h3> <a href="https://create.twu.ca/orientation/course-navigation/" > Course Navigation </a> </h3> 
  
  
+ <a href="https://create.twu.ca/orientation/digital-literacy/scholarship-on-the-web" > 
+ 
+ </a> 
+ <h3> <a href="https://create.twu.ca/orientation/digital-literacy/scholarship-on-the-web" > Scholarship on the Web </a> </h3> 
+ 
+ 
 <h1>Digital Skills<br/></h1>
  <p style="text-align: center;">Use the buttons below to read what your instructor and your fellow learners are posting. Your posts should be visible under &#8216;Student Posts&#8217;.</p> 
  
@@ -88,12 +94,6 @@ post_date: 2017-05-25 15:23:24
  <h3> <a href="https://create.twu.ca/orientation/digital-literacy/great-googly-moogly" > Great Googly Moogly </a> </h3> 
  
 <h1><br/>Information Environmentalism</h1>
- 
- <a href="https://create.twu.ca/orientation/digital-literacy/scholarship-on-the-web" > 
- 
- </a> 
- <h3> <a href="https://create.twu.ca/orientation/digital-literacy/scholarship-on-the-web" > Scholarship on the Web </a> </h3> 
- 
  
  <a href="https://create.twu.ca/orientation/digital-literacy/the-art-of-crap-detection" > 
  
