@@ -33,7 +33,7 @@ Learners will be able to:
 4. Develop a positive digital online identity in support of learning commensurate with good practice for privacy, security and interpersonal communications.*
 5. Demonstrate how to participate legally and ethically in an online digital learning community.*
 
-*These outcomes were originally published for the course 'Learning in a digital age' by OERu and are reproduced here under a Creative Commons Attribution 4.0 International License
+*These outcomes were originally published for the course 'Learning in a digital age' by OERu and are reproduced here under a Creative Commons Attribution 4.0 International License*
 
 ##### Course Structure
 
