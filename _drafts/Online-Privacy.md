@@ -1,10 +1,13 @@
 ---
+ID: 2128
 post_title: Online Privacy
 author: Colin Madland
 post_excerpt: ""
 layout: page
+permalink: >
+  https://create.twu.ca/orientation/?page_id=2128
+published: false
 ---
-
 ##### A Note About Privacy
 
 This orientation course and some of the courses that you will take as part of your degree are designed as 'connected courses'. There are several reasons for this decision and also several implications for you as a student.
