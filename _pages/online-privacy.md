@@ -5,8 +5,9 @@ author: Colin Madland
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/orientation/?page_id=2128
-published: false
+  https://create.twu.ca/orientation/online-privacy/
+published: true
+post_date: 2018-07-03 13:57:33
 ---
 ##### A Note About Privacy
 
