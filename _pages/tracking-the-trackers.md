@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2017-08-08 14:04:20
 ---
-#####
 
 ##### Protecting Yourself
 
@@ -57,13 +56,21 @@ Click the Lightbeam icon in your toolbar.
 
 Now that you have Lightbeam activated in Firefox, you'll be able to see exactly who is tracking you as you interact on the web. Spend some time visiting sites that you would normally visit, and periodically check in on the Lightbeam tab in Firefox to see what sites are most active. Keep LightBeam active for a few days and check in every once in a while.
 
+##### What can websites learn about you?
+
+You might know that websites track you, but do you know how much information they gather?
+
+For this next activity, make sure your computer (the site you will visit isn't optimized for mobile devices) is not muted (you might want to use headphones) and visit https://clickclickclick.click.
+
 ###### Reflect
 
-Create a new post on your blog and write a little bit about what you noticed using LightBeam. Some questions you might want to consider are:
+Create a new post on your blog and write a little bit about what you noticed using LightBeam and visiting https://clickclickclick.click. Some questions you might want to consider are:
 
 * which site that you visited had the most trackers?
 * how many of the trackers came from sites that you did not visit?
 * how long does your normal browser keep cookies from third parties?
+* did the amount of data gathered at https://clickclickclick.click surprise you?
+* [Your own questions or observations.]
 
 Categories for this post:
 
@@ -71,7 +78,11 @@ Categories for this post:
 * Digital Literacy
 * Tracking
 
+##### What can websites learn about you?
 
+You might know that websites track you, but do you know how much information they gather?
+
+For this next activity, make sure your computer (the site you will visit isn't optimized for mobile devices) is not muted (you might want to use headphones) and visit https://clickclickclick.click.
 
 <!--themify_builder_static--><a href="#" data-behavior="toggle" data-label="Send Feedback" data-lesslabel="NVM" data-hover="light-green" data-remove="green"> Send Feedback </a>
 
