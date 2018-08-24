@@ -14,16 +14,16 @@ post_date: 2018-03-10 21:00:20
 The design of the courses in the MA Leadership program, and possibly others soon, is such that you will be engaging in scholarly discourse in a relatively public forum. The Internet was originally built to facilitate dialogue between researchers at universities and in government, and for many years, that is the purpose that it served. However, as computing power has increased [doubling every 24 months, according to Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law) and become exponentially cheaper, [commercial interests have taken over as the most influential forces on the web](https://en.wikipedia.org/wiki/List_of_largest_Internet_companies).
 
 These companies have molded the web from an environment that promoted scholarly communication, connection, and collaboration into what has been described as [_surveillance capitalism_](https://en.wikipedia.org/wiki/Surveillance_capitalism) characterized by
->- the drive toward more and more data extraction and analysis;
->- the development of new contractual forms using computer-monitoring and automation;
->- the desire to personalise and customise the services offered to users of digital platforms; and
->- the use of the technological infrastructure to carry out continual experiments on its users and consumers.
->[SOURCE](https://algocracy.wordpress.com/2016/03/21/the-logic-of-surveillance-capitalism/)
+&gt;- the drive toward more and more data extraction and analysis;
+&gt;- the development of new contractual forms using computer-monitoring and automation;
+&gt;- the desire to personalise and customise the services offered to users of digital platforms; and
+&gt;- the use of the technological infrastructure to carry out continual experiments on its users and consumers.
+&gt;[SOURCE](https://algocracy.wordpress.com/2016/03/21/the-logic-of-surveillance-capitalism/)
 
 We believe that participation in the current economy of the web-as-surveillance-capitalism is neither desirable nor inevitable in higher ed. That is why we have chosen to use open source web apps like WordPress as opposed to commercial data extraction sites like Google Drive, Facebook, Twitter, or Turnitin.
 
 In the Finding U activity, you read [Kris Shaffer's posts about digital minimalism](https://pushpullfork.com/tag/digital-minimalism/), where he [writes](https://pushpullfork.com/digital-minimalism-being-deliberate-about-digital-identity/)
->In the age of online harassment, fake news, propaganda, and [mass digital deception](http://www.digitalpedagogylab.com/hybridped/truthy-lies-surreal-truths/), it is more important than ever to be deliberate about our public digital identity. As my friend [Chris Long writes](http://cplong.org/2013/09/the-googled-graduate-student/), "It is going to happen. Maybe not today or this week, but eventually, you will be Googled. … When it happens, you will want content you created to appear early and often in the search results." And I’d add to this (as Chris likely would, as well) that it’s also important that our best content appears in those search results. The things we want people to find when they look us up.
+&gt;In the age of online harassment, fake news, propaganda, and [mass digital deception](http://www.digitalpedagogylab.com/hybridped/truthy-lies-surreal-truths/), it is more important than ever to be deliberate about our public digital identity. As my friend [Chris Long writes](http://cplong.org/2013/09/the-googled-graduate-student/), "It is going to happen. Maybe not today or this week, but eventually, you will be Googled. … When it happens, you will want content you created to appear early and often in the search results." And I’d add to this (as Chris likely would, as well) that it’s also important that our best content appears in those search results. The things we want people to find when they look us up.
 
 Throughout this orientation, you will begin to practice building a deliberate digital identity related to your studies at TWU. Not only will this help protect you on the web, but it will help you succeed as a scholar on the web.
 
