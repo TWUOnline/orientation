@@ -27,9 +27,9 @@ The course hub is open and available to the general public and some of your work
 
 ##### Course Participant Sites
 
-Each participant in the course will have control over their own personal website, also hosted in WordPress \(although other options may also work\). Some of your work will take place on your own site and be published to the web. While we encourage you to publicize your work, there may be very good reasons for you to either work under a pseudonym or to keep your work private using the settings on your own site.
+Each participant in the course will have control over their own personal website, also hosted in WordPress (although other options may also work). Some of your work will take place on your own site and be published to the web. While we encourage you to publicize your work, there may be very good reasons for you to either work under a pseudonym or to keep your work private using the settings on your own site.
 
-In order to participate in the course, you must submit the URL for your site to your instructor. Your instructor will then connect your site with the course hub through RSS \(Really Simple Syndication\). Once your site is connected through RSS, your posts on your own site will be syndicated and show up on the course hub.
+In order to participate in the course, you must submit the URL for your site to your instructor. Your instructor will then connect your site with the course hub through RSS (Really Simple Syndication). Once your site is connected through RSS, your posts on your own site will be syndicated and show up on the course hub.
 
 The first activity in this course, [WordPress Set Up](https://create.twu.ca/orientation/digital-skills/wordpress-set-up/) will lead you through the process of creating and beginning to set up your site and your RSS feed.
 
