@@ -19,21 +19,32 @@ I am going to mostly skip talking about what RSS is beyond a lightweight summary
 
 People <a href="https://www.cnet.com/how-to/how-twitter-replaced-my-rss-reader/">will claim they can replace RSS Readers with social media streams like Twitter</a>, and while I do get many key resources and news stories via social media, let me dispute the claim:
 
-##### Clutter, noise, distraction.
+<h5>Clutter, noise, distraction.</h5>
+
 What you get is interspersed with many things that are outside your interests, rants, yelling, silly gifs. That’s a lot of filtering.
-##### You Miss It, You Lose it.
+
+<h5>You Miss It, You Lose it.</h5>
+
 Social media is focused at the head of the stream. While you sleep or actually do something productive away from social media, it all flows away. Yes, maybe your network can signal with repeating important things, but its spotty.
-##### Duplication.
+
+<h5>Duplication.</h5>
+
 You have no means to quickly know what you have already looked at, and you see may the same story multiple times.
-##### You Are Subject to Algorithms.
+
+<h5>You Are Subject to Algorithms.</h5>
+
 Especially on Facebook, what you see is determined by the mysteries of an algorithm. Sure you choose sources by followers, but the means by which information is presented is determined by some outside automated entity.
+
 <h4>Tools</h4>
+
 There are a number of Feed reader tools to choose from, and I am not going to advocate any as “best” — they all more or less perform the same function. What’s more important is knowing (a) how to build your sources; (b) how to logically organize them; and (c) optionally how to curate items out of the big pile.
 
 Personally I use <a href="http://digg.com/reader">Digg Reader</a> for my own perusing; mostly because it has become familiar, intuitive, and is not broken. But I am going to explain how to use another one, <a href="http://feedly.com/">Feedly</a>, as I typically set it up when I am teaching a new course where my students will be blogging.
 
 If you are participating in a class where you need to blog and keep up with other students' posts (or you teach a class where your students blog) it can be quite a chore to systematically, check 10, 20, 30 or more blogs on a regular basis. And yes, while I often build WordPress based aggregator sites, that’s still not quite efficient for regular review when I am teaching.
+
 <blockquote>See also, <a href="http://cogdogblog.com/2014/07/feed-wordpress-101/">Alan's 5 part compendium on creating a WordPress based feed hub</a></blockquote>
+
 Just to make it more clear why I see this valuable, here is a look at my Feedly with subscriptions to the blogs from students in the Spring 2017 Networked Narratives course.
 
 ######RSS Reader summary of blog activity for 20 student blogs
@@ -121,27 +132,17 @@ There are a number of curation featured available, most noticeably “<strong>Bo
 Feel free to disagree with my time saving assertions, but I have years of experience as confirmation. But go back to trying to get all your key news from social media and tell me how that is more efficient.
 
 Oh, one more thing, how do you create those subscription files? Many ways.
+
 <ul>
- 	<li>In Feedly, go under your account icon and look for organize. Select the feeds you want to package, and click the small arrow button to the right of Import, this leads to an export option, or directly <a href="https://feedly.com/i/opml">https://feedly.com/i/opml</a>. The limit here is you will export all your subscriptions (which can be handy if you want to try another feed reader).</li>
- 	<li>If you are running Feed WordPress as an aggregator, there is a WordPress method to export the subscriptions as OPML, see the bottom of <a href="https://en.support.wordpress.com/blogroll/import-export-links/">https://en.support.wordpress.com/blogroll/import-export-links/</a></li>
- 	<li>If you have a list of all the Feed URLs, try <a href="http://opml-gen.ovh/">http://opml-gen.ovh/</a></li>
+    <li>In Feedly, go under your account icon and look for organize. Select the feeds you want to package, and click the small arrow button to the right of Import, this leads to an export option, or directly <a href="https://feedly.com/i/opml">https://feedly.com/i/opml</a>. The limit here is you will export all your subscriptions (which can be handy if you want to try another feed reader).</li>
+    <li>If you are running Feed WordPress as an aggregator, there is a WordPress method to export the subscriptions as OPML, see the bottom of <a href="https://en.support.wordpress.com/blogroll/import-export-links/">https://en.support.wordpress.com/blogroll/import-export-links/</a></li>
+    <li>If you have a list of all the Feed URLs, try <a href="http://opml-gen.ovh/">http://opml-gen.ovh/</a></li>
 </ul>
+
 What are you waiting for now? Set up your Feedly and start saving time (well unless you spend more time reading the cool stuff you will find).
 
-<!--themify_builder_static--><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
-This work by Alan Levine is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-Based on a work at <a href="http://cogdogblog.com/2017/09/indispensable-tool/" rel="dct:source">http://cogdogblog.com/2017/09/indispensable-tool/</a>.
-
-<a href="#"> Send Feedback </a>
-
-<form method='post' enctype='multipart/form-data' id='gform_4' action='/orientation/wp-cron.php?doing_wp_cron=1524069058.6822938919067382812500'>
-<ul id='gform_fields_4' class='gform_fields top_label form_sublabel_below description_below'>
- 	<li id='field_4_3' class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible'><label class='gfield_label' for='input_4_3'>Which activity did you just complete?*</label>Please choose oneWordPress SetupNarrating uCurating UTracking the TrackersFinding UGreat Googly MooglyThe Art of Crap Detection1000 WordsAudio IAudio IISound Effect Story</li>
- 	<li id='field_4_2' class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible'><label class='gfield_label'>Did this activity meet one or more of the learning outcomes for the course?*</label>
-<ul class='gfield_radio' id='input_4_2'>
- 	<li class='gchoice_4_2_0'><label for='choice_4_2_0' id='label_4_2_0'>Yes</label></li>
- 	<li class='gchoice_4_2_1'><label for='choice_4_2_1' id='label_4_2_1'>No</label></li>
-</ul>
-</li>
-</ul>
-</form><!--/themify_builder_static-->
+<!--themify_builder_static--><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work by Alan Levine is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://cogdogblog.com/2017/09/indispensable-tool/" rel="dct:source">http://cogdogblog.com/2017/09/indispensable-tool/</a>.
+ 
+ <a href="#" data-behavior="toggle" data-label="Send Feedback" data-lesslabel="NVM" data-hover="light-green" data-remove="green"> Send Feedback </a>
+ 
+ <form method='post' enctype='multipart/form-data' id='gform_4' action='/orientation/wp-admin/post.php'> <ul id='gform_fields_4' class='gform_fields top_label form_sublabel_below description_below'><li id='field_4_3' class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_4_3' >Which activity did you just complete?*</label><select name='input_3' id='input_4_3' class='medium gfield_select' aria-required="true" aria-invalid="false"><option value='' selected='selected' class='gf_placeholder'>Please choose one</option><option value='WordPress Setup' >WordPress Setup</option><option value='Narrating u' >Narrating u</option><option value='Curating U' >Curating U</option><option value='Tracking the Trackers' >Tracking the Trackers</option><option value='Finding U' >Finding U</option><option value='Great Googly Moogly' >Great Googly Moogly</option><option value='The Art of Crap Detection' >The Art of Crap Detection</option><option value='1000 Words' >1000 Words</option><option value='Audio I' >Audio I</option><option value='Audio II' >Audio II</option><option value='Sound Effect Story' >Sound Effect Story</option></select></li><li id='field_4_2' class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' >Did this activity meet one or more of the learning outcomes for the course?*</label><ul class='gfield_radio' id='input_4_2'><li class='gchoice_4_2_0'><input name='input_2' type='radio' value='Yes' id='choice_4_2_0' /><label for='choice_4_2_0' id='label_4_2_0'>Yes</label></li><li class='gchoice_4_2_1'><input name='input_2' type='radio' value='No' id='choice_4_2_1' /><label for='choice_4_2_1' id='label_4_2_1'>No</label></li></ul></li> </ul> <input type='submit' id='gform_submit_button_4' class='gform_button button' value='Submit' onclick='if(window["gf_submitting_4"]){return false;} window["gf_submitting_4"]=true; ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_4"]){return false;} window["gf_submitting_4"]=true; jQuery("#gform_4").trigger("submit",[true]); }' /> <input type='hidden' class='gform_hidden' name='is_submit_4' value='1' /> <input type='hidden' class='gform_hidden' name='gform_submit' value='4' /> <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' /> <input type='hidden' class='gform_hidden' name='state_4' value='WyJbXSIsImM2ZjNkYjlmODMyMWYxZWZiYTAxZGZiYjBlMzZkMzY2Il0=' /> <input type='hidden' class='gform_hidden' name='gform_target_page_number_4' id='gform_target_page_number_4' value='0' /> <input type='hidden' class='gform_hidden' name='gform_source_page_number_4' id='gform_source_page_number_4' value='1' /> <input type='hidden' name='gform_field_values' value='' /> </form><!--/themify_builder_static-->
