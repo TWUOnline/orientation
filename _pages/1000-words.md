@@ -83,5 +83,7 @@ We have a fun way to exercise your visual interpretation skills. Below are a lis
 &#91;^1&#93; These activities are adapted from an open course called <a href="http://youshow.trubox.ca/about/schedule/unit-2/">YouShow</a> offered at Thompson Rivers University in 2015. They are used here under the original <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</a>. The original activity was devised in a dark basement by <a href="https://twitter.com/cogdog">@cogdog</a> and <a href="https://twitter.com/brlamb">@brlamb</a>.
 
 <!--themify_builder_static--><a href="#" data-behavior="toggle" data-label="Send Feedback" data-lesslabel="NVM" data-hover="light-green" data-remove="green"> Send Feedback </a>
- 
- <p>[gravityform id="4" title="false" description="false"]</p><!--/themify_builder_static-->
+
+[gravityform id="4" title="false" description="false"]
+
+<!--/themify_builder_static-->
