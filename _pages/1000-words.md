@@ -30,7 +30,7 @@ The suggestions below are borrowed from <a href="http://craftandvision.com/books
 
 These are of course, very general guides. You get better as you look at yours and other’s photos. You get better when you think more before you press the shutter. You get better when you try new approaches. You get better when you break the rules.
 
-<h5>Suggested Activities</h5>
+<h5>Choose one of the activities below to complete.</h5>
 
 <h5>Practice these techniques and write about your results</h5>
 
