@@ -23,7 +23,7 @@ One significant implication of this decision is that your work in your courses i
 * Sign up for WordPress under a pseudonym. You do not have to use your real name on your blog. Just make sure that your instructor knows who you are and what your pseudonym is.
 * Use the privacy controls in WordPress to protect your work. You can set passwords on individual pages and posts, or set them to be completely private. Just be aware that your instructor will need to be a user on your blog if you want to use private pages.
 * Don't have a public 'About Me' page.
-* Go to 'Settings -&gt; Reading' and change the privacy settings for your entire site.
+* Go to 'Settings > Reading' and change the privacy settings for your entire site.
 
 <a href="http://create.twu.ca/orientation/files/2018/08/Screen-Shot-2018-08-24-at-2.33.18-PM.png"><img class="aligncenter size-full wp-image-2192" src="http://create.twu.ca/orientation/files/2018/08/Screen-Shot-2018-08-24-at-2.33.18-PM.png" alt="" width="1116" height="219" /></a>
 
