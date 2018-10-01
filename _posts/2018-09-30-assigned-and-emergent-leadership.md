@@ -1,0 +1,24 @@
+---
+ID: 2562
+post_title: ASSIGNED AND EMERGENT LEADERSHIP
+author: georgeena alphine
+post_excerpt: 'Everyone has to be a leader at any corner of their life to succeed in the life or to travel out of the comfort zone. As per Northouse, Some people are leaders because of their formal position in an organization, whereas others are leaders because of the way other group members respond to them. These [&hellip;]'
+layout: post
+permalink: >
+  https://create.twu.ca/georgeenalphine/2018/09/30/assigned-and-emergent-leadership/
+published: true
+post_date: 2018-09-30 16:18:37
+---
+<p style="margin: 0cm;margin-bottom: .0001pt;text-align: justify;line-height: 200%;background: white"><span style="color: black">Everyone has to be a leader at any corner of their life to succeed in the life or to travel out of the comfort zone. As per Northouse, Some people are leaders because of their formal position in an organization, whereas others are leaders because of the way other group members respond to them. These two common forms of leadership are called assigned leadership and emergent leadership.</span></p>
+
+<p style="margin: 0cm;margin-bottom: .0001pt;text-align: justify;line-height: 200%;background: white"><span style="color: #222222"> </span></p>
+
+<p style="margin: 0cm;margin-bottom: .0001pt;text-align: justify;text-indent: 36.0pt;line-height: 200%;background: white"><span style="color: black">Assigned leaders hold the position provided by the management of any organization to run the existing system and in such cases academic qualifications or career excellence might have more importance as a criteria than his/her influence/acceptance in the team. While emerged leaders have more acceptance in the team and have true followers. Unity in the team and contribution of each team member are important factors to achieve the common desired goal and in fact emerged leaders have the emotional advantage as he/she is accepted by all the team members thereby the end result would be more positive than assigned leaders. Sometimes, targets set by assigned leader can give a feel of headache while such targets made by emerged leader can make a feel of need of the hour. It all depends up on the emotional attachment to the leader and the destiny of the team by each member of a team.</span></p>
+
+<p style="margin: 0cm;margin-bottom: .0001pt;text-align: justify;text-indent: 36.0pt;line-height: 200%;background: white"><span style="color: black">Many people go through at least on time as a minimum in their life through any emergency situation where they have to take up the ownership to overcome the situation. Here I recall an instance where I feel proud of being a Nurse and could do something by taking the responsibility to save one life. I felt I was emerged to lead many of the situations when I was working as a staff nurse in casualty department at Hinduja Hospital, Mumbai, India, though I wasn’t a senior nurse, but my profession has molded me as leader when I was advocating, giving suggestions, health education , and guiding the patient and family.</span></p>
+
+<p style="margin: 0cm;margin-bottom: .0001pt;text-align: justify;line-height: 200%;background: white"><span style="color: black">The primary functions of management, as first identified by Fayol (1916), were planning, organizing, staffing and controlling. Due to continual industrial development and global standardization, any of the organization which wants to grow eventually would always have a pre-planned system to follow. Above said activities like planning, organizing, staffing and controlling would fall in this system. Managers handle these activities by siting efficiency of the team, consistency of the organization and smooth running of the system. However leaders are careless about the factors like consistency, efficiency and system while they target adaptive and constructive changes in their work and they are courageous to go out of the exiting path. Management is about seeking order and stability; leadership is about seeking adaptive and constructive change. Managers alone cannot lead the organization to prosperity as their vision and style may become bureaucratic at some point and likewise leaders without proper management would be misdirected like aimless arrow. Therefore, as far as the prosperity of any organization is concerned, contribution from managers and leaders are required together. Even though, the practical possibility need to be checked, can it become controversial at any stage?</span></p>
+
+<p style="margin: 0cm;margin-bottom: .0001pt;text-align: justify;line-height: 200%;background: white"><b><span style="color: black">References</span></b></p>
+
+<p style="margin: 0cm;margin-bottom: .0001pt;text-align: justify;line-height: 200%;background: white"><span style="color: black">Peter G. Northouse(2018). <i>Leadership: Theory and Practice,</i> Seventh Edition .Chapter 1, Introduction, Thousand Oaks, CA : SAGE Publications.</span></p>
