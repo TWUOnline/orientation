@@ -85,7 +85,5 @@ Practice recording and exporting audio with Audacity.
 If you are using a Mac computer, you likely have access to GarageBand, which will work quite nicely for these activities, but we will focus these instructions on Audacity.
 
 <!--themify_builder_static--><a href="#" data-behavior="toggle" data-label="Send Feedback" data-lesslabel="NVM" data-hover="light-green" data-remove="green"> Send Feedback </a>
-
-[gravityform id="4" title="false" description="false"]
-
-<!--/themify_builder_static-->
+ 
+ <p>[gravityform id="4" title="false" description="false"]</p><!--/themify_builder_static-->
