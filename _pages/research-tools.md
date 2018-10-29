@@ -5,7 +5,7 @@ author: kmarjanovic
 post_excerpt: ""
 layout: page
 permalink: >
-  https://create.twu.ca/orientation/digital-skills/curating-u-2/
+  https://create.twu.ca/orientation/digital-skills/research-tools/
 published: true
 post_date: 2018-10-29 13:24:26
 ---
