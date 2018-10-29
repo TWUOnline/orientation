@@ -64,26 +64,14 @@ You've set up your website!! You should now be ready to begin your first assignm
 
 Be sure to go through the other tutorials listed on the <a href="https://create.twu.ca/orientation/">Home Page</a> to improve your digital literacy.
 
-<!--themify_builder_static-->
-
-<h2>Before you Continue<br/>Make sure you have completed the two activities below!</h2>
-
-<p style="text-align: center;">Click the green button below to sign up for a WordPress site. Your site will be created automatically, but you MUST use a twu.ca or mytwu.ca email address.</p>
-
-<p style="text-align: center;">If your registration was successful, you will receive an email requiring you to confirm your site and user registration. You may need to check your spam/junk folder. Please email colin.madland[at]twu.ca if you have difficulties.</p>
-
-<a href="https://create.twu.ca/get-started" target="_blank" rel="noopener"> Sign Up</a>
-
-<p style="text-align: center;">Use the form below to tell us the URL for your RSS feed.</p>
-
-<p style="text-align: center;">Please read and follow the instructions carefully!</p>
-
-[gravityform id="2" title="false" description="false"]
-
-Once you have registered your site and posted your self-intro post, click 'Digital Skills' in the menu above to return to the course hub and click 'Annotating U'.
-
-<a href="#" data-behavior="toggle" data-label="Send Feedback" data-lesslabel="NVM" data-hover="light-green" data-remove="green"> Send Feedback </a>
-
-[gravityform id="4" title="false" description="false"]
-
-<!--/themify_builder_static-->
+<!--themify_builder_static--><h2>Before you Continue<br/>Make sure you have completed the two activities below!</h2>
+ 
+ <p style="text-align: center;">Click the green button below to sign up for a WordPress site. Your site will be created automatically, but you MUST use a twu.ca or mytwu.ca email address.</p><p style="text-align: center;">If your registration was successful, you will receive an email requiring you to confirm your site and user registration. You may need to check your spam/junk folder. Please email colin.madland[at]twu.ca if you have difficulties.</p> 
+ <a href="https://create.twu.ca/get-started" target="_blank" rel="noopener"> Sign Up</a> 
+ 
+ <p style="text-align: center;">Use the form below to tell us the URL for your RSS feed.</p> <p style="text-align: center;">Please read and follow the instructions carefully!</p> <p>[gravityform id="2" title="false" description="false"]</p> 
+ <p>Once you have registered your site and posted your self-intro post, click 'Digital Skills' in the menu above to return to the course hub and click 'Annotating U'.</p> 
+ 
+ <a href="#" data-behavior="toggle" data-label="Send Feedback" data-lesslabel="NVM" data-hover="light-green" data-remove="green"> Send Feedback </a>
+ 
+ <p>[gravityform id="4" title="false" description="false"]</p><!--/themify_builder_static-->
