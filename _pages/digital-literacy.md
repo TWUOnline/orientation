@@ -43,13 +43,13 @@ Justine was traveling from New York to Cape Town, South Africa to visit family f
 
 Then she wandered around Heathrow for a half-hour and, as she boarded her flight, turned off her phone.
 
-While she slept on the 11-hour flight over Africa, a writer named Sam Biddle found her tweet and retweeted it to his own followers. All 15,000 of them. Before long, parts of the internet were in a frenzy of rage and then, glee. The top trending hashtag on Twitter worldwide was '\#HasJustineLandedYet'. Not only were people angry at the pious privilege and racism of Justine's tweet, but they were giddy at the thought of what was going to happen when she turned her phone back on.
+While she slept on the 11-hour flight over Africa, a writer named Sam Biddle found her tweet and retweeted it to his own followers. All 15,000 of them. Before long, parts of the internet were in a frenzy of rage and then, glee. The top trending hashtag on Twitter worldwide was '#HasJustineLandedYet'. Not only were people angry at the pious privilege and racism of Justine's tweet, but they were giddy at the thought of what was going to happen when she turned her phone back on.
 
-The fallout from sending that one tweet was devastating for Justine. [You can read more about Justine's \(and others'\) story here.](https://www.nytimes.com/2015/02/15/magazine/how-one-stupid-tweet-ruined-justine-saccos-life.html)
+The fallout from sending that one tweet was devastating for Justine. [You can read more about Justine's (and others') story here.](https://www.nytimes.com/2015/02/15/magazine/how-one-stupid-tweet-ruined-justine-saccos-life.html)
 
 If the career and personal life of a communications professional like Justine can be destroyed by a single tweet, then surely we need to exercise care and caution when engaging on the web. One lesson that we all need to consider is that activities on the internet are not made better by them being on the internet. Adding technology to an environment, whether it is a social environment or a learning environment, does not necessarily make that environment better. Generally, adding technology, especially technologies that encourage network effects, acts as an _amplifier_. That means that some good things can be spread more widely, increasing the positive effects of activities, but it also means that bad things can also be spread more widely and quickly.
 
-Had Justine understood how much her tweet could be amplified by the way that the web \(and Twitter\) works, she might have made a very different decision and not sent that tweet. Sam Biddle did understand the power of the web to amplify messages, and he consciously used that knowing that Justine would be victimized. A digitally literate person ought to make wise and strategic decisions about what they share on the web.
+Had Justine understood how much her tweet could be amplified by the way that the web (and Twitter) works, she might have made a very different decision and not sent that tweet. Sam Biddle did understand the power of the web to amplify messages, and he consciously used that knowing that Justine would be victimized. A digitally literate person ought to make wise and strategic decisions about what they share on the web.
 
 ##### Blog
 
