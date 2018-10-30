@@ -24,7 +24,7 @@ Before you begin, you should log out of all of your social media accounts as you
 <ol>
 <li>Your task is simply to perform an online search based on your name. We recommend that you use multiple different search engines (Google, Yahoo, Bing, DuckDuckGo, etc).</p></li>
 <li>Once you have performed and jotted some notes on a few searches, write a short, third-person biography of yourself based only on what you could find in your searches. Make sure that you include pictures, videos, or other media that you might find.  Please feel free to share this in a new post on your blog so we can participate in your learning!</p></li>
-<li><p>Read <a href="http://theory.cribchronicles.com/2012/05/06/digital-identities-six-key-selves/">Digital Identities: Six Key Selves of Networked Publics</a> by Bonnie Stewart and incorporate some of the following questions into your notes/post.</p></li>
+<li>Read <a href="http://theory.cribchronicles.com/2012/05/06/digital-identities-six-key-selves/">Digital Identities: Six Key Selves of Networked Publics</a> by Bonnie Stewart and incorporate some of the following questions into your notes/post.</p></li>
 </ol>
 
 <p>&lt;
@@ -51,7 +51,5 @@ p style="padding-left: 30px;">* What did you find?
 </ul>
 
 <!--themify_builder_static--><a href="#" data-behavior="toggle" data-label="Send Feedback" data-lesslabel="NVM" data-hover="light-green" data-remove="green"> Send Feedback </a>
-
-[gravityform id="4" title="false" description="false"]
-
-<!--/themify_builder_static-->
+ 
+ <p>[gravityform id="4" title="false" description="false"]</p><!--/themify_builder_static-->
