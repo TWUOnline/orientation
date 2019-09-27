@@ -19,14 +19,12 @@ The story can be about a project you are working on, or an accomplishment, or so
 
 You can either record sounds or find ones that are licensed for reuse. Some places to find sounds include:
 
-<ul>
- 	<li><a href="http://www.freesound.org/">Freesound</a> (free but you need to create an account to download)</li>
- 	<li><a href="http://macaulaylibrary.org/">McCauley Library</a> (Cornell Lab of Ornithology) offers wildlife sounds.</li>
- 	<li><a href="http://www.pdsounds.org/">public domain sounds</a> shared and recorded by people around the world.</li>
- 	<li><a href="http://soundbible.com/free-sound-effects-1.html">SoundBible</a> free sound effects</li>
- 	<li><a href="http://turbulence.org/soundtransit/search/">SoundTransit</a> field recordings</li>
- 	<li><a href="http://commons.wikimedia.org/wiki/Category:Sounds_by_type">Wikimedia Commons Sounds by Type</a></li>
-</ul>
+*   [Freesound](http://www.freesound.org/) (free but you need to create an account to download)
+*   [McCauley Library](http://macaulaylibrary.org/) (Cornell Lab of Ornithology) offers wildlife sounds.
+*   [public domain sounds](http://www.pdsounds.org/) shared and recorded by people around the world.
+*   [SoundBible](http://soundbible.com/free-sound-effects-1.html) free sound effects
+*   [SoundTransit](http://turbulence.org/soundtransit/search/) field recordings
+*   [Wikimedia Commons Sounds by Type](http://commons.wikimedia.org/wiki/Category:Sounds_by_type)
 
 #####Part 2: Create your story
 
